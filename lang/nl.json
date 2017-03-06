@@ -1,0 +1,45 @@
+{
+
+  "SL1_title"        : "CODERDOJO(B)XL",
+  "SL1_sub"          : "COMPUTERWETENSCHAPPEN ZONDER GRENZEN",
+  "SL1_sub_sub"      : "EEN KEICOOLE DAG VOL COMPUTER HELDINNEN EN HELDEN!",
+  "B_join"           : "Doe mee!",
+
+  "DATE"             : "ZATERDAG 20 MEI 2017",
+  "SL2_sub"          : "MUNTPUNT",
+  "SL2_sub_sub"      : "MUNT 6, 1000 BRUSSEL <br> TOONMOMENTEN OM 16:30 EN 17:30",
+
+  "CTA_title_1"      : "Voor wie?",
+  "CTA_par_1"        : "Ben je jonger dan 18 jaar? Hou je van experimenteren met technologie? Dan is CoderDojo (B)XL helemaal voor jou! Je kan meedoen als Red Hero (8-13 jaar) of Blue Hero (14-18 jaar).",
+  "CTA_title_2"      : "Waarom meedoen?",
+  "CTA_par_2"        : "Tijdens deze Grote CoderDojo leer je alles over de heldinnen en helden van Computerwetenschappen! Meer nog, je wordt zelf computer heldin of held van de dag door meteen aan de slag te gaan met programmeren!",
+
+  "WHERE_title"      : "Waar en wanneer?" ,
+  "WHERE_when"       : "van 13:00 tot 18:00",
+  "WHERE_red"        : "Red heroes worden om 12:30 verwacht",
+  "WHERE_blue"       : "Blue heroes worden om 14:30 verwacht",
+  "WHERE_show"       : "Toonmomenten voor bezoekers om 16u30 en 17u30",
+  "WHERE_munt"       : "Muntpunt",
+  "WHERE_addr"       : "Munt 6 – 1000 Brussel - België",
+
+  "TRS_title"        : "Bereikbaarheid",
+  "TRS_pub"          : "Met het openbaar vervoer",
+  "TRS_p1"           : "Muntpunt ligt aan het Muntplein, op een boogscheut van het Centraal station en vlakbij de metro-, tram- en bushalte De Brouckère.",
+  "TRS_mivb"         : "MIVB",
+  "TRS_mivb_op1"     : "Metro 1 en 5",
+  "TRS_mivb_op2"     : "Tram 3, 4 32 en 33",
+  "TRS_mivb_op2"     : "Bus 29, 38, 63, 66, 71 en 86",
+  "TRS_lijn"         : "De Lijn",
+  "TRS_lijn_op1"     : "Bus 126, 127 en 128",
+  "TRS_bike"         : "Met de fiets",
+  "TRS_bike_op1"     : "Het Muntplein is uitgerust met verschillende fietsparkeerbeugels. Plooifietsen zijn niet toegelaten in het gebouw. Je kan ze opbergen in de lockers op -1.",
+  "TRS_car"          : "Met de auto",
+  "TRS_car_op1"      : "Het Muntplein zelf is helemaal verkeersvrij, maar de parkeergarages Schildknaap, Munt en De Brouckère zorgen voor voldoende parkeergelegenheid in de buurt.",
+
+  "NAV_Home"         : "Home",
+  "NAV_Where"        : "Waar",
+  "NAV_What"         : "Wat",
+  "NAV_Inspiration"  : "Inspiratie",
+  "NAV_Register"     : "Inschrijven",
+  "NAV_More"         : "Meer info"
+}

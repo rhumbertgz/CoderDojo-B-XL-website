@@ -1,0 +1,45 @@
+{
+
+  "SL1_title"        : "CODERDOJO(B)XL",
+  "SL1_sub"          : "COMPUTERSCIENCE WITHOUT BORDERS",
+  "SL1_sub_sub"      : "BECOME A COMPUTER HERO AT THIS SUPERCOOL TECH DAY!",
+  "B_join"           : "Join us!",
+
+  "DATE"             : "SATURDAY MAY 20 2017",
+  "SL2_sub"          : "MUNTPUNT",
+  "SL2_sub_sub"      : "MUNT 6, 1000 BRUSSELS <br> DEMO SHOWS AT 16:30 & 17:30",
+
+  "CTA_title_1"      : "For whom?",
+  "CTA_par_1"        : "Are you younger than 18 years? <br> Do you like experimenting with technology? Then you will love CoderDojo (B)XL! <br> You can participate as a Red Hero (8-13 years) or Blue Hero (14-18 years).",
+  "CTA_title_2"      : "Why join us?",
+  "CTA_par_2"        : "During this big CoderDojo you will learn all about the heroines and heroes of Computer Science! Even better, you will become a computer heroine or hero yourself by showing off your (new) programming skills.",
+
+  "WHERE_title"      : "When & Where? " ,
+  "WHERE_when"       : "van 13:00 tot 18:00",
+  "WHERE_red"        : "Red heroes worden om 12:30 verwacht",
+  "WHERE_blue"       : "Blue heroes worden om 14:30 verwacht",
+  "WHERE_show"       : "Toonmomenten voor bezoekers om 16u30 en 17u30",
+  "WHERE_munt"       : "Muntpunt",
+  "WHERE_addr"       : "Munt 6 – 1000 Brussel - België",
+
+  "TRS_title"        : "Accessibility",
+  "TRS_pub"          : "By public transportation",
+  "TRS_p1"           : "Muntpunt is located at Muntplein, very close to Brussels Central Station and subway, tram and bus stop De Brouckère.",
+  "TRS_mivb"         : "MIVB",
+  "TRS_mivb_op1"     : "Subway 1 en 5",
+  "TRS_mivb_op2"     : "Tram 3, 4 32 and 33",
+  "TRS_mivb_op2"     : "Bus 29, 38, 63, 66, 71 and 86",
+  "TRS_lijn"         : "De Lijn",
+  "TRS_lijn_op1"     : "Bus 126, 127 and 128",
+  "TRS_bike"         : "By bicycle",
+  "TRS_bike_op1"     : "At Muntplein there are several bicycle parking rails available. Folding bikes are not allowed inside the building. You can store them in the lockers at -1.",
+  "TRS_car"          : "By car",
+  "TRS_car_op1"      : "The Muntplein is entirely pedestrianized, but parking lots Schildknaap, Munt and De Brouckère offer ample parking space close by.",
+
+  "NAV_Home"         : "Home",
+  "NAV_Where"        : "Where",
+  "NAV_What"         : "What",
+  "NAV_Inspiration"  : "Inspiration",
+  "NAV_Register"     : "Register",
+  "NAV_More"         : "More info"
+}

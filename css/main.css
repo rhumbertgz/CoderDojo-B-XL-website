@@ -8,6 +8,21 @@ Author URL: http://shapebootstrap.net
 /*************************
 *******Typography******
 **************************/
+
+
+
+
+
+.jumbotron {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        color: white;
+        background-image: url("figures/banner.png");
+        background-size: cover;
+}
+.robot { color: #262261; }
+.web   { color: #00ADEE; }
+.mobile{ color: #EB008B; }
+
 body {
   padding-top: 100px;
   background: #F7FAFD;
@@ -211,6 +226,7 @@ ul.nostyle i {
 }
 @media only screen and (min-width: 768px) {
   #main-menu.navbar-default {
+    background-image: url("/figures/banner.png");
     background: rgba(255, 255, 255, 0.9);
     -webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
@@ -1024,19 +1040,49 @@ ul.nostyle i {
   box-shadow: none;
   -webkit-box-shadow: none;
 }
-.carousel-inner > .item > img,
-.carousel-inner > .item > a > img {
-  width: 100%;
+
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+  display: block;
+  min-height: 100%;
+  line-height: 1;
+  min-width: 100%;
+  max-width: none;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
 }
+
 img.animatie {
   margin: 25px;
   border: 10px solid;
   border-color: #4278AC;
 }
-#myCarousel {
-  max-width: 600px;
-  margin: 0 auto;
+
+
+/*.carousel-caption {
+    top: 50%;
+    bottom: initial;
+    transform: translateY(-50%);
+    font-size: 24px;
+    line-height: 1;
+    text-transform: uppercase;
+    color: #fff;
+}*/
+
+.carousel-caption h2 {
+    font-size: 36px;
+    color: #fff;
 }
+
+.carousel-caption h1 {
+    font-size: 60px;
+    line-height: 1;
+    text-transform: uppercase;
+    color: #fff;
+}
+
 
 .tjoetjoep-video {
   width: 300px;
@@ -1056,5 +1102,3 @@ img.animatie {
     height: 340px;
   }
 }
-
-
