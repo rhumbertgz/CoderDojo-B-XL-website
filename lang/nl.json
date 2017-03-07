@@ -22,19 +22,66 @@
   "WHERE_munt"       : "Muntpunt",
   "WHERE_addr"       : "Munt 6 – 1000 Brussel - België",
 
+  "WHAT_title"       : "Wat",
+  "What_intro"       :  "Tijdens CoderDojo (B)XL zal je deelnemen aan verschillende activiteiten.",
+  "What_rotate"      :  "Volgens een rotatiesysteem zorgen we ervoor dat jullie van elke workshop kunnen proeven.",
+
+  "WHAT_unpl"        :  "Unplugged programmeren",
+  "What_unpl_p"      :  "Aan de eerste reeks workshops komen er geen computers aan te pas. Je ontdekt concepten en principes van programmeren door een aantal actieve toffe spelletjes.",
+
+  "What_code"        :  "Coding sessies",
+  "What_code_p"      :  "In deze reeks kan je toepassen wat je tijdens de unplugged sessies hebt geleerd! In de coding workshops ga je aan de slag met onder andere computers, smartphones en robots.",
+  "What_show"        :  "Toonmoment",
+  "WHAT_show_p"      :  "Toon je superpowers en presenteer – als je dat wil – aan je collega helden en heldinnen wat jij tijdens CoderDojo (B)XL hebt gemaakt!",
+  "WHAT_end"         :  "Het is niet nodig om al ooit geprogrammeerd te hebben: iedereen kan deelnemen!",
+
+  "THX_title"        : "Dankjewel",
+  "THX_p"            : "CoderDojo (B)XL wordt georganiseerd door CoderDojo Belgium vzw en VUB in het kader van het Computerwetenschappen zonder grenzen project. Het doet ons enorm veel plezier te kunnen rekenen op een aantal sterke partners!",
+  "THX_muntpunt"     : "Muntpunt zorgt voor de logistieke steun.",
+  "THX_fin"          : "Dankzij de financiële steun van deze sponsors wordt het extra leuk voor deelnemers en bezoekers!",
+
   "TRS_title"        : "Bereikbaarheid",
   "TRS_pub"          : "Met het openbaar vervoer",
   "TRS_p1"           : "Muntpunt ligt aan het Muntplein, op een boogscheut van het Centraal station en vlakbij de metro-, tram- en bushalte De Brouckère.",
   "TRS_mivb"         : "MIVB",
   "TRS_mivb_op1"     : "Metro 1 en 5",
   "TRS_mivb_op2"     : "Tram 3, 4 32 en 33",
-  "TRS_mivb_op2"     : "Bus 29, 38, 63, 66, 71 en 86",
+  "TRS_mivb_op3"     : "Bus 29, 38, 63, 66, 71 en 86",
   "TRS_lijn"         : "De Lijn",
   "TRS_lijn_op1"     : "Bus 126, 127 en 128",
   "TRS_bike"         : "Met de fiets",
   "TRS_bike_op1"     : "Het Muntplein is uitgerust met verschillende fietsparkeerbeugels. Plooifietsen zijn niet toegelaten in het gebouw. Je kan ze opbergen in de lockers op -1.",
   "TRS_car"          : "Met de auto",
   "TRS_car_op1"      : "Het Muntplein zelf is helemaal verkeersvrij, maar de parkeergarages Schildknaap, Munt en De Brouckère zorgen voor voldoende parkeergelegenheid in de buurt.",
+
+
+  "REG_title"        : "Inschrijven",
+  "REG_p"            : "Het event is gratis voor iedereen. Heldinnen en helden die willen meedoen moeten vooraf inschrijven als Red of Blue Hero. Bezoekers zijn welkom tijdens de toonmomenten om 16:30 en 17:30 en hoeven hiervoor niet te registreren.",
+
+
+  "INFO_title"       : "Meer info",
+  "INFO_cdj_p"       : "CoderDojo is een wereldwijde beweging van vrijwilligers die zich inzetten om jongeren warm te maken voor technologie en programmeren. In België organiseren we momenteel meer dan 70 maandelijkse CoderDojo clubs.",
+  "INFO_cdj_p2"      : "Meer informatie over CoderDojo Belgium vzw en hoe je kan deelnemen, vind je op:",
+  "INFO_cdj_l"       : "www.coderdojobelgium.be",
+
+  "INFO_soft_p"      : "Het SOFT onderzoekslabo van de Vrije Universiteit Brussel organiseert het Computerwetenschappen Zonder Grenzen project. Dit project beoogt het sensibiliseren van jongeren om hen duidelijk te maken dat computerwetenschappen niet alleen voor nerds is die de hele dag achter hun computer zitten. Computerwetenschappen gaat in de eerste plaats over algoritmisch denken om zo belangrijke problemen op te lossen.",
+  "INFO_soft_p2"     : "Meer informatie over de acties die we ondernemen in het CW Zonder Grenzen project, vind je op:",
+  "INFO_soft_l"      : "http://soft.vub.ac.be/sciencemundi",
+
+  "FAQ_q1"           : "Moet ik iets meebrengen?",
+  "FAQ_a1"           : "Je hoeft niks mee te brengen. Al het materiaal wordt door ons voorzien. Tussen de sessies door krijg je een snackje en een drankje en op het einde van de dag belonen we je harde werk met een leuke tech goodie en een t-shirt!",
+  "FAQ_q2"           : "Is het gratis?",
+  "FAQ_a2"           : "Ja, zowel komen meedoen als komen kijken is volledig gratis! Net als alle andere CoderDojo events, trouwens.",
+  "FAQ_q3"           : "Vanaf welke leeftijd mag ik meedoen? Hoe oud mag ik zijn?",
+  "FAQ_a3"           : "Een “normale” CoderDojo staat open voor iedereen vanaf 6 tem 18 jaar, maar voor dit speciale event hebben we voor een keertje twee afgelijnde leeftijdsgroepen gemaakt. Ben je tussen 8 en 13 jaar, dan kan je deelnemen als Red Hero. Ben je al 14 maar nog geen 18 jaar, dan kan je inschrijven als Blue Hero.",
+  "FAQ_q4"           : "Moet ik al eens aan een CoderDojo hebben deelgenomen?",
+  "FAQ_a4"           : "Dat mag natuurlijk, maar het hoeft niet ☺ Zoals bij een “normale” Dojo kan iedereen deelnemen, ook al heb je nog nooit geprogrammeerd.",
+  "FAQ_q5"           : "Wat moet ik doen als ik mij heb ingeschreven en toch niet kan komen?",
+  "FAQ_a5"           : "Plaatsen zijn beperkt, dus als je niet komt opdagen, dan is dat jammer voor iemand anders die er wel graag bij was geweest. Laat daarom zeker op tijd iets weten als je er toch niet kan bij zijn. Je kan hiervoor mailen naar info@coderdojobelgium.be of, nog beter, zelf je bestelde ticket rechtstreeks annuleren in EventBrite.",
+  "FAQ_q6"           : "Ben ik verzekerd tijdens mijn deelname aan CoderDojo (B)XL?",
+  "FAQ_a6"           : "Ja, dat ben je, op voorwaarde dat je ons alle (correcte) gegevens bezorgt die we vragen tijdens je inschrijving.",
+  "FAQ_q7"           : "Ik heb nog vragen!",
+  "FAQ_a7"           : "Stel ze gerust via info@coderdojobelgium.be",
 
   "NAV_Home"         : "Home",
   "NAV_Where"        : "Waar",

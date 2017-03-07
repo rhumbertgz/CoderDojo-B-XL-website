@@ -1,0 +1,93 @@
+{
+
+  "SL1_title"        : "CODERDOJO(B)XL",
+  "SL1_sub"          : "LES SCIENCES COMPUTATIONNELLES SANS FRONTIERES",
+  "SL1_sub_sub"      : "DEVIENS UN HERO DE L'ORDINATEUR A CETTE SUPER JOURNEE TECHNOLOGIQUE!",
+  "B_join"           : "Rejoins-nous!",
+
+  "DATE"             : "SAMEDI 20 MAI 2017",
+  "SL2_sub"          : "MUNTPUNT",
+  "SL2_sub_sub"      : "Place de la Monnaie 6, 1000 Bruxelles <br> SHOWS DEMONSTRATIFS A 16:30 & 17:30",
+
+  "CTA_title_1"      : "Pour qui?",
+  "CTA_par_1"        : "Tu as moins de 18 ans? <br> Tu aimes expérimenter avec la technologie ? Alors tu vas adorer CoderDojo (B)XL! <br> Tu peux y participer comme Red Hero (8-13 ans) ou Blue Hero (14-18 ans).",
+  "CTA_title_2"      : "Pourquoi nous rejoindre ?",
+  "CTA_par_2"        : "Pendant ce grand CoderDojo tu apprendras tout sur les héroïnes et héros des sciences computationnelles! Encore mieux, tu deviendras une héroïne ou un héro toi-même en montrant tes (nouveaux) talents de programmeur.",
+  
+
+  "WHERE_title"      : "Quand & Où ?",
+  "WHERE_when"       : "de 13:00 à 18:00",
+  "WHERE_red"        : "Les Red heroes sont attendus à 12:30 au plus tard",
+  "WHERE_blue"       : "Les Blues Heroes sont attendus à 14:30 au plus tard",
+  "WHERE_show"       : "Shows demonstratifs pour les visiteurs à 16:30 et 17:30",
+  "WHERE_munt"       : "Muntpunt",
+  "WHERE_addr"       : "Place de la Monnaie 6 - 1000 Bruxelles - Belgique",
+
+  "WHAT_title"       : "Quoi",
+  "What_intro"       :  "Pendant le CoderDojo (B)XL tu vas faire plusieurs activités",
+  "What_rotate"      :  "Un système de rotation te permet d'essayer toutes les activités.",
+
+  "WHAT_unpl"        :  "La programmation unplugged",
+  "What_unpl_p"      :  "Pendant cette première activité tu n'as même pas besoin d'ordinateur! Tu découvriras les concepts et les principes de la programmation à travers de supers jeux.",
+  "What_code"        :  "Sessions de programmation",
+  "What_code_p"      :  "Cette seconde activité te permet d'appliquer ce que tu as appris pendant la programmation unplugged. Tu apprendras à programmer des ordinateurs, smartphones et même des robots.",
+  "What_show"        :  "Show demonstratif",
+  "WHAT_show_p"      :  "Montre tes supers pouvoirs et présente - si tu le veux - ce que tu as appris pendant le CoderDojo (B)XL à tes collègues héros et héroïnes!",
+  "WHAT_end"         :  "Tu ne dois pas encore savoir programmer: tout le monde est le bienvenu ! ",
+
+
+  "THX_title"        : "Merci",
+  "THX_p"            : "CoderDojo (B)XL est organisé par CoderDojo Belgique asbl et la VUB dans le contexte du projet sciences computationnelles sans frontières. Nous sommes heureux de pouvoir compter sur de très bons partenaires.",
+  "THX_muntpunt"     : "Muntpunt nous supporte logistiquement",
+  "THX_fin"          : "Grâce aux supports financiers des sponsors suivants, nous pouvons organiser cette évènement.",
+
+
+  "TRS_title"        : "Accessibilité",
+  "TRS_pub"          : "Par transport public",
+  "TRS_p1"           : "Le Muntpunt est localisé sur la place de la Monnaie, proche de la gare centrale de Bruxelles et de l'arrêt metro, tram et bus De Brouckère.",
+  "TRS_mivb"         : "STIB",
+  "TRS_mivb_op1"     : "Metro  1 et 5",
+  "TRS_mivb_op2"     : "Tram  3, 4 32 et 33",
+  "TRS_mivb_op3"     : "Bus 29, 38, 63, 66, 71 et 86",
+  "TRS_lijn"         : "De Lijn",
+  "TRS_lijn_op1"     : "Bus 126, 127 et 128",
+  "TRS_bike"         : "A vélo",
+  "TRS_bike_op1"     : "Sur la place de la Monnaie il y a plusieurs parkings à vélo. Les vélos pliables ne sont pas autorisés dans le building. Vous pouvez les déposer dans les casiers au -1.",
+  "TRS_car"          : "En voiture",
+  "TRS_car_op1"      : "La place de la Monnaie est pédestre, les parkings Ecuyer, Monnaie et De Brouckère offrent beaucoup de places de parking proches de l'évènement.",
+
+
+  "REG_title"        : "Inscriptions",
+  "REG_p"            : "L'évènement est gratuit pour tout le monde. Les héroïnes et héros qui souhaitent participer doivent s'inscrire à l'avance en tant que Red ou Blue Heroes. Les visiteurs sont les bienvenus pendant les shows démonstratifs à 16:30 & 17:30 et ne doivent pas s'inscrire'.",
+
+  "INFO_title"       : "Plus d'informations",
+  "INFO_cdj_p"       : "CoderDojo est une organisation globale qui, sur base du volontariat, apprend la programmation aux jeunes. Pour le moment il y a 70 clubs CoderDojo mensuels en Belgique.",
+  "INFO_cdj_p2"      : "Pour plus d'informations sur CoderDojo Belgique asbl et comment y participer:",
+  "INFO_cdj_l"       : "www.coderdojobelgium.be",
+
+  "INFO_soft_p"      : "Le Laboratoire de recherche SOFT de la Vrije Universiteit Brussel organise le projet sciences computationnelles sans frontières. Le projet est une campagne de sensibilisation pour les jeunes, afin de les initier aux plaisirs des sciences computationnelles. Elle permet aussi de leur montrer qu'elles ne sont pas seulement dédiées aux nerds avec des ordinateurs. Les sciences computationnelles instruisent surtout une structure et une logique d'esprit importantes pour résoudre des problèmes et comprendre le monde.",
+  "INFO_soft_p2"     : "Pour plus d'informations sur les activités organisées dans le cadre du projet sciences computationnelles sans frontières:",
+  "INFO_soft_l"      : "http://soft.vub.ac.be/sciencemundi",
+
+  "FAQ_q1"           : "Dois-je ammener quelque chose ?",
+  "FAQ_a1"           : "Vous ne devez rien prendre avec vous. Tout le matériel est prévu et apporté par nos soins. Entre les activités vous recevrez un snack et une boisson, à la fin de la journée vous recevrez un gadget technologique et un t-shirt!",
+  "FAQ_q2"           : "L'évènement est-il gratuit?",
+  "FAQ_a2"           : "Absolument, participer et visiter CoderDojo (B)XL est complètement gratuit. Tout les évènement CoderDojo le sont.",
+  "FAQ_q3"           : "A partir de quel âge puis-je participer ? Quel est l'âge maximal ?",
+  "FAQ_a3"           : "En temps normal les CoderDojo sont ouverts pour les 6 à 18 ans. Mais pour cet évènement spécial nous avons fait une exception. Les participants seront divisés en deux groupes d'âges. Si tu as entre 8 et 13 ans, tu peux participer en tant que Red Hero. As-tu plus de 14 ans mais moins de 18 ans? Alors tu peux t'inscrire en tant que Blue Hero. ",
+  "FAQ_q4"           : "Est-il nécessaire d'avoir déjà participé à un CoderDojo?",
+  "FAQ_a4"           : "Tu peux être un fervent participant, mais ce n'est pas un prérequis :) Tout comme à un Dojo normal, tout le monde peut s'y joindre, même si tu n'as encore jamais programmé.",
+  "FAQ_q5"           : "Que dois-je faire si je me suis inscrit mais que je ne peux pas y participer?",
+  "FAQ_a5"           : "Les places sont limitées. Donc si tu t'inscris mais tu ne viens pas tu prends la place de quelqu'un qui aurait voulu venir et qui n'a pas eu de place. Si tu dois te désister laisse nous le savoir à temps en envoyant un mail à info@coderdojobelgium.be ou, encore mieux, en annulant ton ticket directement par EventBrite.",
+  "FAQ_q6"           : "Suis-je assuré en tant que participant à CoderDojo (B)XL?",
+  "FAQ_a6"           : "Oui, mais seulement si tu nous donnes les informations correctes pendant l'inscription.",
+  "FAQ_q7"           : "J'ai encore des questions!",
+  "FAQ_a7"           : "N'hésite pas à nous les poser par info@coderdojobelgium.be",
+
+  "NAV_Home"         : "Accueil",
+  "NAV_Where"        : "Où",
+  "NAV_What"         : "Quoi",
+  "NAV_Inspiration"  : "Inspiration",
+  "NAV_Register"     : "Inscriptions",
+  "NAV_More"         : "Plus d'infos"
+}

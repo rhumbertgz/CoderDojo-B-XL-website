@@ -15,12 +15,31 @@
   "CTA_par_2"        : "During this big CoderDojo you will learn all about the heroines and heroes of Computer Science! Even better, you will become a computer heroine or hero yourself by showing off your (new) programming skills.",
 
   "WHERE_title"      : "When & Where? " ,
-  "WHERE_when"       : "van 13:00 tot 18:00",
-  "WHERE_red"        : "Red heroes worden om 12:30 verwacht",
-  "WHERE_blue"       : "Blue heroes worden om 14:30 verwacht",
-  "WHERE_show"       : "Toonmomenten voor bezoekers om 16u30 en 17u30",
+  "WHERE_when"       : "from 13:00 to 18:00",
+  "WHERE_red"        : "Red heroes are expected at 12:30 at the latest",
+  "WHERE_blue"       : "Blue heroes are expected at 14:30 at the latest",
+  "WHERE_show"       : "Demo shows for visitors at 16:30 & 17:30",
   "WHERE_munt"       : "Muntpunt",
   "WHERE_addr"       : "Munt 6 – 1000 Brussel - België",
+
+  "WHAT_title"       : "What",
+  "What_intro"       :  "During CoderDojo (B)XL you will take part in different activities.",
+  "What_rotate"      :  "A rotating system will allow all of you to get a taste from every workshop.",
+
+  "WHAT_unpl"        :  "Unplugged programming",
+  "What_unpl_p"      :  "This first series of workshops do not require a computer at all! You will discover programming concepts and principles through a number of cool active games.",
+  "What_code"        :  "Coding sessions",
+  "What_code_p"      :  "This second series allows you to apply what you have learned at the unplugged sessions in a fun way. During these coding workshops you will get to program computers, smartphones and even robots.",
+  "What_show"        :  "Demo show",
+  "WHAT_show_p"      :  "Show off your superpowers and present - if you want to - what you have worked on during CoderDojo (B)XL to your fellow heroes and heroines!",
+  "WHAT_end"         :  "It is not necessary for you to have experience in programming: anybody can join!",
+
+
+  "THX_title"        : "Thank you",
+  "THX_p"            : "CoderDojo (B)XL is organised by CoderDojo Belgium vzw and VUB in the context of the Computer Science without borders project. We are glad we can count on some strong partners.",
+  "THX_muntpunt"     : "Muntpunt gives all the logistical support.",
+  "THX_fin"          : "Thanks to the financial support of the following sponsors we can provide a fun experience for participants and visitors!",
+
 
   "TRS_title"        : "Accessibility",
   "TRS_pub"          : "By public transportation",
@@ -28,13 +47,41 @@
   "TRS_mivb"         : "MIVB",
   "TRS_mivb_op1"     : "Subway 1 en 5",
   "TRS_mivb_op2"     : "Tram 3, 4 32 and 33",
-  "TRS_mivb_op2"     : "Bus 29, 38, 63, 66, 71 and 86",
+  "TRS_mivb_op3"     : "Bus 29, 38, 63, 66, 71 and 86",
   "TRS_lijn"         : "De Lijn",
   "TRS_lijn_op1"     : "Bus 126, 127 and 128",
   "TRS_bike"         : "By bicycle",
   "TRS_bike_op1"     : "At Muntplein there are several bicycle parking rails available. Folding bikes are not allowed inside the building. You can store them in the lockers at -1.",
   "TRS_car"          : "By car",
   "TRS_car_op1"      : "The Muntplein is entirely pedestrianized, but parking lots Schildknaap, Munt and De Brouckère offer ample parking space close by.",
+
+
+  "REG_title"        : "Register",
+  "REG_p"            : "The event is free for everyone. Heroines and heroes that want to participate should register beforehand as Red or Blue Heroes. Visitors are welcome during the demo shows at 16:30 & 17:30 and do not have to register to attend.",
+
+  "INFO_title"       : "More information",
+  "INFO_cdj_p"       : "CoderDojo is a global, volunteer-led movement of free computer programming clubs for young people. Currently there are 70 monthly CoderDojo clubs in Belgium.",
+  "INFO_cdj_p2"      : "Meer information over CoderDojo Belgium vzw and how to attend on:",
+  "INFO_cdj_l"       : "www.coderdojobelgium.be",
+
+  "INFO_soft_p"      : "The SOFT research lab at the Vrije Universiteit Brussel organizes the Computer Science Without Borders project. The project is a sensibilization campaign for youngsters to show that computer science is it not only for nerds sited the whole day behind a computer. Computer Science is overall about computational thinking, a very important skill to solve problems and understand the world. ",
+  "INFO_soft_p2"     : "More information on the activities organized in the CS Without Borders project on:",
+  "INFO_soft_l"      : "http://soft.vub.ac.be/sciencemundi",
+
+  "FAQ_q1"           : "Should I bring something?",
+  "FAQ_a1"           : "You do not have to bring anything. All the material will be provided for by us. In between sessions you will receive a snack and drink and at the end of the day we will reward you for your hard work with a cool tech goodie and a t-shirt!",
+  "FAQ_q2"           : "Is the event free?",
+  "FAQ_a2"           : "Absolutely, both participating and visiting CoderDojo (B)XL is completely free! All of CoderDojo’s events are, by the way.",
+  "FAQ_q3"           : "At what age am I old enough to participate? What is the maximum age?",
+  "FAQ_a3"           : "A normal CoderDojo is open to anyone between 6 and 18 years old. However, for this special event we have made an exception for once. Participants will be divided into 2 age groups. If you are between 8 and 13 years old, you can participate as a Red Hero. Are you already 14 but not 18 yet? Then you can register as a Blue Hero.",
+  "FAQ_q4"           : "Is it necessary to have taken part in a CoderDojo before?",
+  "FAQ_a4"           : "You can be a loyal CoderDojo attendant, but you do not have to be :) Just like a normal Dojo everyone can join, even if you have never programmed before.",
+  "FAQ_q5"           : "What should I do if I have registered but I cannot make it after all?",
+  "FAQ_a5"           : "Places are limited, so if you register and do not show up, that is a real pity for someone else who would have wanted to come but didn’t have a spot. If you have to cancel please let us know in time by emailing info@coderdojobelgium.be or, better yet, by canceling your ordered ticket directly in EventBrite.",
+  "FAQ_q6"           : "Am I insured when I participate in CoderDojo (B)XL?",
+  "FAQ_a6"           : "Yes, you are, provided that you give us all the (correct) information we ask for during your registration.",
+  "FAQ_q7"           : "I still have questions!",
+  "FAQ_a7"           : "Feel free to ask them via info@coderdojobelgium.be",
 
   "NAV_Home"         : "Home",
   "NAV_Where"        : "Where",

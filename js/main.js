@@ -195,18 +195,6 @@ jQuery(function($) {'use strict';
 			}
 		});
 
-		//  Update volmeter
-		 $.get("https://volmeter.azurewebsites.net/api/volmeter?code=4XYCmcqJtrLshnWEbKYYoJsnsDUDSceplVqeBQi5PxwSWKifmriCtQ==", function(data, status){
-        	if( status == "success" ){
-
-				var percent = ( data * 100 ) / 64;
-				var volmeterDiv = document.getElementById("volmeter");
-				volmeterDiv.innerHTML = percent.toFixed( 1 ) + "%";
-				volmeterDiv.setAttribute("data-width", percent);
-				volmeterDiv.style.width = percent.toFixed( 1 ) + "%";
-			}
-    	});
-
 	});
 
 	// Contact form
@@ -260,6 +248,6 @@ jQuery(function($) {'use strict';
 			map: map
 		});
 	}
-	google.maps.event.addDomListener(window, 'load', initialize_map);
+	//google.maps.event.addDomListener(window, 'load', initialize_map);
 
 });

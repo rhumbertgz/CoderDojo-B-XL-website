@@ -9,7 +9,41 @@ Author URL: http://shapebootstrap.net
 *******Typography******
 **************************/
 
+.carousel {
+    position: relative;
+    border-radius: 56px 55px 55px 55px;
+    border: 30px solid white;
+}
 
+
+ul.footer-menu {
+    text-align: right;
+}
+
+
+.hero-img {
+    max-width: 70%;
+    border: 4px solid #efefef;
+    border-radius: 50%;
+}
+
+.where-img {
+    max-width: 60%;
+    border: 4px solid #efefef;
+    border-radius: 50%;
+}
+
+.sponsor-img {
+    max-width: 100%;
+}
+
+
+body {
+	font-family: 'Dosis', sans-serif;
+	color: #404142;
+	font-size: 16px;
+	letter-spacing: 0.8px;
+}
 
 
 
@@ -26,9 +60,10 @@ Author URL: http://shapebootstrap.net
 body {
   padding-top: 100px;
   background: #F7FAFD;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Dosis', sans-serif;
   font-weight: 400;
-  color: #64686d;
+  letter-spacing: 0.8px;
+  color: #404142;
   line-height: 26px;
 }
 body.nl *[lang=en] {
@@ -56,7 +91,7 @@ h4,
 h5,
 h6 {
   font-weight: 600;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Dosis', sans-serif;
   color: #272727;
 }
 a {
@@ -226,8 +261,10 @@ ul.nostyle i {
 }
 @media only screen and (min-width: 768px) {
   #main-menu.navbar-default {
-    background-image: url("/figures/banner.png");
-    background: rgba(255, 255, 255, 0.9);
+    background: url(https://static-1.gumroad.com/res/gumroad/assets/header_bar-bd3be3db872f96368507899b9f29f6e4acdd64c84dfc132c2f7366924c900b52.png) top center;
+    background-size: 100% 10%;
+    background-repeat: no-repeat;
+    background-color: rgba(255, 255, 255, 0.9);
     -webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
   }
@@ -240,7 +277,7 @@ ul.nostyle i {
   #main-menu.navbar-default .navbar-nav > li:hover > a {
     background: transparent;
     padding-top: 37px;
-    border-top: 3px solid #4278AC;
+    border-bottom: 3px solid #4278AC;
   }
   #main-menu.navbar-default .dropdown-menu {
     padding: 0 20px;
@@ -354,7 +391,12 @@ ul.nostyle i {
 }
 #cta {
   padding: 50px 0;
-  background-color: #eeeeee;
+  /*background-color: #eeeeee; */
+  background-color: #f4b936;
+  border-radius: 55px 55px 55px 55px;
+  overflow: hidden;
+  padding: 40px;
+  border: 30px solid white;
 }
 #cta h2 {
   margin-top: 0;
@@ -398,12 +440,18 @@ ul.nostyle i {
 }
 #what {
   padding: 100px 0;
+  border-radius: 56px 55px 55px 55px;
+  border: 30px solid white;
+  background-color: rgb(255, 184, 184);
 }
 #what .media.service-box:first-child {
   margin-top: 80px;
 }
 #where2 {
   padding: 100px 0;
+  border-radius: 56px 55px 55px 55px;
+  border: 30px solid white;
+  background-color: rgba(28, 130, 148, 0.1);
 }
 #where2 .media.service-box:first-child {
   margin-top: 80px;
@@ -796,12 +844,19 @@ ul.nostyle i {
 }
 #register {
   padding: 100px 0 50px;
+  border-radius: 56px 55px 55px 55px;
+  border: 30px solid white;
+  background-color: rgb(199, 228, 197);
 }
 #sponsors {
   padding: 100px 0 50px;
 }
 #info {
   padding: 100px 0 50px;
+
+  border-radius: 56px 55px 55px 55px;
+    border: 30px solid white;
+    background-color: #ece8d2;
 }
 #pricing {
   padding: 100px 0 70px;
@@ -875,10 +930,16 @@ ul.nostyle i {
 }
 #where {
   padding: 100px 0 50px;
+  /*
   background-image: -moz-linear-gradient(90deg, #4278AC 0%, #4278AC 100%);
   background-image: -webkit-linear-gradient(90deg, #4278AC 0%, #4278AC 100%);
-  background-image: -ms-linear-gradient(90deg, #4278AC 0%, #4278AC 100%);
+  background-image: -ms-linear-gradient(90deg, #4278AC 0%, #4278AC 100%);*/
+  background-image: -moz-linear-gradient(90deg, #137e83 0%, #03949a 100%);
+  background-image: -ms-linear-gradient(90deg, #137e83 0%, #03949a 100%);
+  background-image: -webkit-linear-gradient(90deg, #137e83 0%, #03949a 100%);
   color: #fff;
+  border-radius: 56px 55px 55px 55px;
+  border: 30px solid white;
 }
 #where h1,
 #where h2 {
@@ -1011,10 +1072,12 @@ ul.nostyle i {
 ********* Footer ******
 ************************/
 #footer {
+  background: url(https://static-1.gumroad.com/res/gumroad/assets/header_bar-bd3be3db872f96368507899b9f29f6e4acdd64c84dfc132c2f7366924c900b52.png) bottom center;
+  background-size: 100% 10%;
+  background-repeat: no-repeat;
   padding-top: 30px;
   padding-bottom: 30px;
-  color: #fff;
-  background: #2e2e2e;
+  background-color: #2e2e2e;
 }
 #footer a {
   color: #fff;
