@@ -36,25 +36,6 @@
 	<section id="info"         class="wow fadeIn"   include-html="template/info.html">     </section>
 	<section id="sponsors"     class="wow fadeIn"   include-html="template/sponsers.html"> </section>
 
-	<!--
-	<section id="contact">
-		<div id="google-map" style="height:650px" data-latitude="51.125063" data-longitude="4.5734433"></div>
-		<div class="container-wrapper">
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-4 col-sm-offset-8">
-
-						<div class="contact-form">
-							<h3>Contacteer ons</h3>
-							<p><a href="mailto:info@coolestprojects.be">info@coderdojo-bxl.be</a></p>
-						</div>
-
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	-->
 
 	<footer id="footer">
 		<div class="container">
@@ -67,9 +48,10 @@
 				</div>
 				<div class="col-md-6 col-sm-6">
 					<ul class="footer-menu">
+						<li><a href="#" onclick="editPage();">Edit</a></li>
 						<li><a href="#">Contact</a></li>
 						<li><a href="#">CoderDojo</a></li>
-						<li><a href="#">Software Language Lab</a></li>
+						<li><a href="#">Software Languages Lab</a></li>
 					</ul>
 				</div>
 			</div>
@@ -93,6 +75,8 @@
 	<script src="js/wow.min.js"></script>
 	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
 	<script src="js/main.js"></script>
+	<script src="js/FileSaver.min.js"></script>
+
 
 	<script>
 		//Load all the pages and translate them to the current language
@@ -100,7 +84,6 @@
 			 IncludeHTML(
 				 function() {
 					//
-
 					/*$("#cta").css( "background-color", 'rgba(255, 224, 102, 1)' )
 					$("#where").css( "background-color", 'rgba(0, 222, 252, 1)' )
 					$("#what").css( "background-color", 'rgba(247, 243, 242, 1)' )
@@ -131,7 +114,33 @@
 			       '</div>';
 		};
 
+		function editPage() {
+			$("[key]").each(
+      	function() {
+        	$(this).attr('contenteditable','true');
+      	}
+    	);
+		};
 
+		function keyValue(key,value) {
+			return '"'+ key +  '":"'  + escape(value) + '",\n'
+		};
+
+		$(window).keypress(function(event) {
+    	if (!(event.which == 115 && event.ctrlKey) && !(event.which == 19)) return true;
+			var string = "{ ";
+			$("[key]").each(
+      	function() {
+					string += keyValue($(this).attr("key"),$(this).html());
+      	}
+    	);
+			string += ' "" : "" }'
+			var file = new File([string], "lang.json", {type: "text/plain;charset=utf-8"});
+			saveAs(file);
+			do_translate(JSON.parse(string));
+    	event.preventDefault();
+    	return false;
+		});
 
 	</script>
 

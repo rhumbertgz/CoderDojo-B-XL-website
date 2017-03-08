@@ -7,7 +7,7 @@ function translate(lang) {
 function do_translate(data) {
     $("[key]").each(
       function() {
-        $(this).html(data[ $(this).attr("key")]);
+        $(this).html( unescape(data[ $(this).attr("key")]) );
       }
     );
 };
