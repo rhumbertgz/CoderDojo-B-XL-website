@@ -1141,6 +1141,7 @@ img.animatie {
 }
 
 .carousel-caption h1 {
+    word-wrap: break-word; 
     font-size: 60px;
     line-height: 1;
     text-transform: uppercase;
