@@ -250,4 +250,64 @@ jQuery(function($) {'use strict';
 	}
 	//google.maps.event.addDomListener(window, 'load', initialize_map);
 
+	//Template function for creating a faq item
+	function faq(id) {
+		return '<div class="panel panel-default">'+
+					 '  <div class="panel-heading" role="tab" id="heading0'+id+'">'+
+					 '    <h3 class="panel-title">'+
+					 '      <a key="FAQ_q'+ id +'" data-toggle="collapse" data-parent="#accordion" href="#collapse0'+id+'" aria-expanded="false" aria-controls="collapse0'+id+'">'+
+					 '      </a>'+
+					 '    </h3>'+
+					 '  </div>'+
+					 '  <div id="collapse0'+id+'" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading0'+id+'">'+
+					 '    <div key="FAQ_a'+ id +'" class="panel-body">'+
+					 '    </div>'+
+					 '  </div>'+
+					 '</div>';
+	};
+
+	//make all the element editable
+	function editPage() {
+		$("[key]").each(
+			function() {
+				$(this).attr('contenteditable','true');
+			}
+		);
+	};
+
+	//Template for a keyvalue json
+	function keyValue(key,value) {
+		return '"'+ key +  '":"'  + escape(value) + '",\n'
+	};
+
+	//Register a hook to save the webpage strings
+	$(window).keypress(function(event) {
+		if (!(event.which == 115 && event.ctrlKey) && !(event.which == 19)) return true;
+		var string = "{ ";
+		$("[key]").each(
+			function() {
+				string += keyValue($(this).attr("key"),$(this).html());
+			}
+		);
+		string += ' "" : "" }'
+		var file = new File([string], "lang.json", {type: "text/plain;charset=utf-8"});
+		saveAs(file);
+		do_translate(JSON.parse(string));
+		event.preventDefault();
+		return false;
+	});
+
+	//Load all the pages and translate them to the default language
+	$(document).ready(function() {
+		 IncludeHTML(
+			 function() {
+				document.getElementById ("faq").innerHTML = faq(1)+faq(2)+faq(3)+faq(4)+faq(5)+faq(6)+faq(7);
+				translate('nl');
+				document.getElementById ("btn_nl").addEventListener ("click", function() { translate('nl' ); }, false);
+				document.getElementById ("btn_fr").addEventListener ("click", function() { translate('fr' ); }, false);
+				document.getElementById ("btn_en").addEventListener ("click", function() { translate('en' ); }, false);
+			})
+	});
+
+
 });
