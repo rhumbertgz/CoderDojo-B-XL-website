@@ -1,29 +1,39 @@
 <!DOCTYPE html>
-<html lang="nl">
-
+<!--
+				Leuk dat je naar de broncode komt kijken !
+				Deze webpagina is helemaal geschreven in HTML CSS en Javascript
+				Als je vragen hebt over de broncode mag je me altijd een mailtje sturen op:
+				Christophe.Scholliers(at)UGent.be
+ -->
+<html>
 <head>
 	<meta charset="utf-8">
+	<!-- Deze meta tag geeft aan de website zich anders moet gedragen op de mobiele telefoon -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<!-- De title tag geeft aan wat je browser weergeeft als titel van je pagina -->
 	<title>CODERDOJO(B)XL</title>
-	<!-- core CSS -->
+	<!-- Core CSS files deze files dienen om het uiterlijk van de webpagina te veranderen -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/font-awesome.min.css" rel="stylesheet">
 	<link href="css/animate.min.css" rel="stylesheet">
 	<link href='css/dosis-font.css' rel='stylesheet' type='text/css'>
 	<link href="css/main.css" rel="stylesheet">
 	<link href="css/responsive.css" rel="stylesheet">
+	<!-- Internet explorer heeft wat andere files nodig om goed te werken -->
 	<!--[if lt IE 9]>
     <script src="js/html5shiv.js"></script>
     <script src="js/respond.min.js"></script>
   <![endif]-->
 </head>
-<!--/head-->
 
-<body id="home" class="homepage nl">
-
-	<header id="header" include-html="template/header.html">   </header>
+<body id="home" class="homepage">
+	<!-- 	We splitsen de wepagina op in kleinere delen
+				Bijvoorbeeld de header van de pagina bevat het menu met drie knopjes om de taal te selecteren
+				en ook de links om naar verschillende secties van de webpagina te springen.
+				Met include-html geven we aan welk deel van de webpagina we willen inladen.
+  -->
+	<header  id="header"                            include-html="template/header.html">   </header>
 	<section id="main-slider"  class="wow fadeIn"   include-html="template/slider.html">   </section>
-	<div class="row"> </div>
 	<section id="cta"          class="wow fadeIn"   include-html="template/cta.html">      </section>
 	<section id="where"        class="wow fadeIn"   include-html="template/where.html">    </section>
 	<section id="what"         class="wow fadeIn"   include-html="template/what.html">     </section>
@@ -31,32 +41,9 @@
 	<section id="register"     class="wow fadeIn"   include-html="template/register.html"> </section>
 	<section id="info"         class="wow fadeIn"   include-html="template/info.html">     </section>
 	<section id="sponsors"     class="wow fadeIn"   include-html="template/sponsers.html"> </section>
+	<footer  id="footer"                            include-html="template/footer.html">    </footer>
 
-
-	<footer id="footer">
-		<div class="container">
-			<div class="row footer-credit">
-				<div class="col-md-6 col-sm-6">
-					<li><a href="https://github.com/chscholl/CoderDojo-B-XL-website" target="_blank"><i class="fa fa-github"></i>
-						Source Code !
-					</a></li>
-				</div>
-				<div class="col-md-6 col-sm-6">
-					<ul class="footer-menu">
-						<li><a href="#">Contact</a></li>
-						<li><a href="#">CoderDojo</a></li>
-						<li><a href="#">Software Languages Lab</a></li>
-						<li><a href="#" onclick="editPage();">Edit</a></li>
-					</ul>
-				</div>
-			</div>
-
-		</div>
-
-
-	</footer>
-	<!--/#footer-->
-
+	<!-- Met de volgende tags laden we al de javascript code in -->
 	<script src="js/include.js"></script>
 	<script src="js/jquery.js"></script>
 	<script src="js/translate.js"></script>
@@ -68,10 +55,8 @@
 	<script src="js/jquery.isotope.min.js"></script>
 	<script src="js/jquery.inview.min.js"></script>
 	<script src="js/wow.min.js"></script>
-	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
 	<script src="js/FileSaver.min.js"></script>
 	<script src="js/main.js"></script>
-
 </body>
 
 </html>
