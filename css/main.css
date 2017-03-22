@@ -46,6 +46,9 @@ body {
 }
 
 
+.section-header .row{
+   margin-right: -8px
+}
 
 .jumbotron {
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -1141,7 +1144,7 @@ img.animatie {
 }
 
 .carousel-caption h1 {
-    word-wrap: break-word; 
+    word-wrap: break-word;
     font-size: 60px;
     line-height: 1;
     text-transform: uppercase;
