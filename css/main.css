@@ -150,9 +150,7 @@ hr {
   background-image: -webkit-linear-gradient(4deg, #4278AC 0%, #4278AC 100%);
   background-image: -ms-linear-gradient(4deg, #4278AC 0%, #4278AC 100%);
 }
-.section-header {
-  margin-bottom: 50px;
-}
+
 .section-header .section-title {
   font-size: 44px;
   color: #272727;
