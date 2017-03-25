@@ -59,6 +59,11 @@
 
   "REG_title"        : "Inscriptions",
   "REG_p"            : "L'évènement est gratuit pour tout le monde. Les héroïnes et héros qui souhaitent participer doivent s'inscrire à l'avance en tant que Red ou Blue Heroes. Les visiteurs sont les bienvenus pendant les shows démonstratifs à 16:30 & 17:30 et ne doivent pas s'inscrire'.",
+  "REG_topics"       : "For the coding workshops you will need to choose one of the following topics:",
+  "REG_topic_w"      : "Web",
+  "REG_topic_m"      : "Mobile",
+  "REG_topic_r"      : "Robotics",
+  "B_register"       : "Inscrire maintenant!!",
 
   "INFO_title"       : "Plus d'informations",
   "INFO_cdj_p"       : "CoderDojo est une organisation globale qui, sur base du volontariat, apprend la programmation aux jeunes. Pour le moment il y a 70 clubs CoderDojo mensuels en Belgique.",
