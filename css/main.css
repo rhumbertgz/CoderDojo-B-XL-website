@@ -31,6 +31,8 @@ ul.footer-menu {
     max-width: 60%;
     border: 4px solid #efefef;
     border-radius: 50%;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .sponsor-img {
