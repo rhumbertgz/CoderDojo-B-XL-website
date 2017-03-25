@@ -17,8 +17,8 @@
 
   "WHERE_title"      : "Quand & Où ?",
   "WHERE_when"       : "de 13:00 à 18:00",
-  "WHERE_red"        : "Les Red heroes sont attendus à 12:30 au plus tard",
-  "WHERE_blue"       : "Les Blues Heroes sont attendus à 14:30 au plus tard",
+  "WHERE_red"        : "Les Red heroes sont attendus à <b>12:30</b> au plus tard",
+  "WHERE_blue"       : "Les Blues Heroes sont attendus à <b>14:30</b> au plus tard",
   "WHERE_show"       : "Shows demonstratifs pour les visiteurs à 16:30 et 17:30",
   "WHERE_munt"       : "Muntpunt",
   "WHERE_addr"       : "Place de la Monnaie 6 - 1000 Bruxelles - Belgique",

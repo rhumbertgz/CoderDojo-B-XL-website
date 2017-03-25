@@ -10,15 +10,15 @@
   "SL2_sub_sub"      : "MUNT 6, 1000 BRUSSELS <br> DEMO SHOWS AT 16:30 & 17:30",
 
   "CTA_title_1"      : "For whom?",
-  "CTA_par_1"        : "Are you younger than 18 years? <br> Do you like experimenting with technology? Then you will love CoderDojo (B)XL! <br> You can participate as a Red Hero (8-13 years) or Blue Hero (14-18 years).",
+  "CTA_par_1"        : "Are you younger than 18 years? <br> Do you like experimenting with technology? Then you will love CoderDojo (B)XL! <br> You can participate as a Red Digital Hero (8-13 years) or Blue Digital Hero (14-18 years).",
   "CTA_title_2"      : "Why join us?",
   "CTA_par_2"        : "During this big CoderDojo you will learn all about the heroines and heroes of Computer Science! Even better, you will become a computer heroine or hero yourself by showing off your (new) programming skills.",
 
   "WHERE_title"      : "When & Where? " ,
   "WHERE_when"       : "from 13:00 to 18:00",
-  "WHERE_red"        : "Red heroes are expected at 12:30 at the latest",
-  "WHERE_blue"       : "Blue heroes are expected at 14:30 at the latest",
-  "WHERE_show"       : "Demo shows for visitors at 16:30 & 17:30",
+  "WHERE_red"        : "Red heroes are expected at <b>12:30</b> at the latest",
+  "WHERE_blue"       : "Blue heroes are expected at <b>14:30</b> at the latest",
+  "WHERE_show"       : "Visitors are welcome all day, especially during the demo shows of 16:30 and 17:30",
   "WHERE_munt"       : "Muntpunt",
   "WHERE_addr"       : "Munt 6 – 1000 Brussel - België",
 

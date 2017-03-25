@@ -12,13 +12,13 @@
   "CTA_title_1"      : "Voor wie?",
   "CTA_par_1"        : "Ben je jonger dan 18 jaar? Hou je van experimenteren met technologie? Dan is CoderDojo (B)XL helemaal voor jou! Je kan meedoen als Red Hero (8-13 jaar) of Blue Hero (14-18 jaar).",
   "CTA_title_2"      : "Waarom meedoen?",
-  "CTA_par_2"        : "Tijdens deze Grote CoderDojo leer je alles over de heldinnen en helden van Computerwetenschappen! Meer nog, je wordt zelf computer heldin of held van de dag door meteen aan de slag te gaan met programmeren!",
+  "CTA_par_2"        : "Tijdens deze grote CoderDojo leer je alles over de heldinnen en helden van Computerwetenschappen! Meer nog, je wordt zelf computer heldin of held van de dag door meteen aan de slag te gaan met programmeren!",
 
   "WHERE_title"      : "Waar en wanneer?" ,
   "WHERE_when"       : "van 13:00 tot 18:00",
-  "WHERE_red"        : "Red heroes worden om 12:30 verwacht",
-  "WHERE_blue"       : "Blue heroes worden om 14:30 verwacht",
-  "WHERE_show"       : "Toonmomenten voor bezoekers om 16u30 en 17u30",
+  "WHERE_red"        : "Red heroes worden om <b>12:30</b> verwacht",
+  "WHERE_blue"       : "Blue heroes worden om <b>14:30</b> verwacht",
+  "WHERE_show"       : "Toonmomenten voor bezoekers om 16:30 en 17:30",
   "WHERE_munt"       : "Muntpunt",
   "WHERE_addr"       : "Munt 6 – 1000 Brussel - België",
 
