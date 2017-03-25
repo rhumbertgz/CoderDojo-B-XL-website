@@ -273,7 +273,7 @@ ul.nostyle i {
   }
   #main-menu.navbar-default .navbar-nav > li > a {
     padding-top: 40px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
   }
   #main-menu.navbar-default .navbar-nav > li.active > a,
   #main-menu.navbar-default .navbar-nav > li.open > a,
@@ -1079,8 +1079,8 @@ ul.nostyle i {
   background: url(https://static-1.gumroad.com/res/gumroad/assets/header_bar-bd3be3db872f96368507899b9f29f6e4acdd64c84dfc132c2f7366924c900b52.png) bottom center;
   background-size: 100% 10%;
   background-repeat: no-repeat;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   background-color: #2e2e2e;
 }
 #footer a {
