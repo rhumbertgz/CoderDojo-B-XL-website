@@ -64,6 +64,12 @@
   "REG_topic_r"      : "Robotics",
   "B_register"       : "Register now!",
 
+  "HELP_title"       : "How can you help us?",
+  "HELP_p"           : "You can help out in two ways during CoderDojo B(XL): as a <b>cook</b> or as a <b>coach</b>.",
+  "HELP_p_1"         : "Volunteering as a <b>cook</b> does not require any technical knowledge at all, since you provide support in <b>administration</b> and <b>logistics</b>. This means taking care of registrations, answering questions from parents, receiving the participants at the start of a Dojo, setting up tables and chairs, providing snacks and drinks.",
+  "HELP_p_2"         : "Volunteering as a <b>coach</b> means to to <b>assist the children</b> during the Dojo. We do not ask for a specific degree, but coaching does require a passion for IT, some teaching skills and the drive to inspire young people and to teach them programming.",
+  "HELP_contact"     : "Contact us at <a href='mailto:1030@coderdojobelgium.be'>1030@coderdojobelgium.be</a> or <a href='mailto:egonzale@vub.ac.be'>egonzale@vub.ac.be</a>",
+
 
   "INFO_title"       : "More information",
   "INFO_cdj_p"       : "CoderDojo is a global, volunteer-led movement of free computer programming clubs for young people. Currently there are 70 monthly CoderDojo clubs in Belgium.",
