@@ -59,11 +59,18 @@
 
   "REG_title"        : "Inscriptions",
   "REG_p"            : "L'évènement est gratuit pour tout le monde. Les héroïnes et héros qui souhaitent participer doivent s'inscrire à l'avance en tant que Red ou Blue Heroes. Les visiteurs sont les bienvenus pendant les shows démonstratifs à 16:30 & 17:30 et ne doivent pas s'inscrire'.",
-  "REG_topics"       : "For the coding workshops you will need to choose one of the following topics:",
+  "REG_topics"       : "Pour les sessions de programmation, tu dois sélectionner l'un des sujets suivants:",
   "REG_topic_w"      : "Web",
   "REG_topic_m"      : "Mobile",
   "REG_topic_r"      : "Robotics",
-  "B_register"       : "Inscrire maintenant!!",
+  "B_register"       : "S'inscrire maintenant!",
+
+  "HELP_title"       : "Comment nous aider?",
+  "HELP_p"           : "Il existe deux façons de contribuer à CoderDojo B(XL) : en tant que <b>cook</b>  ou en tant que <b>coach</b>.",
+  "HELP_p_1"         : "Pour devenir <b>cook</b>, aucun savoir technique n’est nécessaire, car vous nous offrirez un soutien <b>administratif</b> et <b>logistique</b>. Vos tâches possibles seront : vous occuper des inscriptions, répondre aux questions des parents, accueillir les participants au début d’un Dojo, installer les tables et les chaises, aider à préparer les snacks et les boissons.",
+  "HELP_p_2"         : "En outre, CoderDojo B(XL) recherche des <b>coaches</b> qui <b>accompagneront les jeunes</b> lors des Dojos. Nous ne cherchons pas de personnes diplômées, mais des passionnés d’informatique, qui possèdent quelques compétences pédagogiques et qui ont une grande envie d’inspirer les jeunes et de leur apprendre la programmation.",
+  "HELP_contact"     : "Contactez-nous via <a href='mailto:1030@coderdojobelgium.be'>1030@coderdojobelgium.be</a> ou <a href='mailto:egonzale@vub.ac.be'>egonzale@vub.ac.be</a>",
+
 
   "INFO_title"       : "Plus d'informations",
   "INFO_cdj_p"       : "CoderDojo est une organisation globale qui, sur base du volontariat, apprend la programmation aux jeunes. Pour le moment il y a 70 clubs CoderDojo mensuels en Belgique.",
@@ -94,5 +101,6 @@
   "NAV_What"         : "Quoi",
   "NAV_Inspiration"  : "Inspiration",
   "NAV_Register"     : "Inscriptions",
+  "NAV_Help"         : "Nous Aider",
   "NAV_More"         : "Plus d'infos"
 }

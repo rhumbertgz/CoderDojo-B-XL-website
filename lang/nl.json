@@ -63,6 +63,12 @@
   "REG_topic_r"      : "Robotics",
   "B_register"       : "Registreer nu!",
 
+  "HELP_title"       : "Hoe kan je meehelpen?",
+  "HELP_p"           : "Je kan op twee manieren helpen bij CoderDojo B(XL): als <b>cook</b> of als <b>coach</b>.",
+  "HELP_p_1"         : "Een <b>cook</b> heeft helemaal geen technische kennis nodig, aangezien je zorgt voor de <b>administratieve</b> en <b>logistieke</b> ondersteuning</b>. Dit gaat van de inschrijvingen verzorgen, vragen van ouders beantwoorden, de deelnemers ontvangen bij de start van een Dojo tot het klaarzetten van tafels en stoelen en het verzorgen van de hapjes en drankjes.",
+  "HELP_p_2"         : "Daarnaast zoeken we naar <b>coaches</b> om onze <b>jongeren te begeleiden</b> tijdens de Dojo. We vragen geen diploma, wel een passie voor ICT, wat didactische vaardigheden en veel zin om jongeren te inspireren en te leren programmeren.",
+  "HELP_contact"     : "Contacteer ons op <a href='mailto:1030@coderdojobelgium.be'>1030@coderdojobelgium.be</a> of <a href='mailto:egonzale@vub.ac.be'>egonzale@vub.ac.be</a>",
+
   "INFO_title"       : "Meer info",
   "INFO_cdj_p"       : "CoderDojo is een wereldwijde beweging van vrijwilligers die zich inzetten om jongeren warm te maken voor technologie en programmeren. In België organiseren we momenteel meer dan 70 maandelijkse CoderDojo clubs.",
   "INFO_cdj_p2"      : "Meer informatie over CoderDojo Belgium vzw en hoe je kan deelnemen, vind je op:",
@@ -92,5 +98,6 @@
   "NAV_What"         : "Wat",
   "NAV_Inspiration"  : "Inspiratie",
   "NAV_Register"     : "Inschrijven",
+  "NAV_Help"         : "Meehelpen",
   "NAV_More"         : "Meer info"
 }

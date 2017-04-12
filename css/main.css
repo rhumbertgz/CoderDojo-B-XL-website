@@ -860,6 +860,14 @@ ul.nostyle i {
     border: 30px solid white;
     background-color: #ece8d2;
 }
+
+#help {
+  padding: 100px 0 50px;
+
+  border-radius: 56px 55px 55px 55px;
+    border: 30px solid white;
+    background-color: #f9d481;
+}
 #pricing {
   padding: 100px 0 70px;
 }
