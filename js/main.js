@@ -307,18 +307,20 @@ jQuery(function($) {'use strict';
 	$(document).ready(function() {
 
 		if ( mobilecheck() ) {
-			if (top != self) { top.location.replace(self.location.href); }
-		} else {
+			if (top != self) {
+				top.location.replace(self.location.href);
+			 }
+		}
+
 		 IncludeHTML(
 			 function() {
-				document.getElementById ("faq").innerHTML = faq(1)+faq(2)+faq(3)+faq(4)+faq(5)+faq(6)+faq(7);
 				translate('nl');
+				document.getElementById ("faq").innerHTML = faq(1)+faq(2)+faq(3)+faq(4)+faq(5)+faq(6)+faq(7);
 				document.getElementById ("btn_nl").addEventListener ("click", function() { translate('nl' ); }, false);
 				document.getElementById ("btn_fr").addEventListener ("click", function() { translate('fr' ); }, false);
 				document.getElementById ("btn_en").addEventListener ("click", function() { translate('en' ); }, false);
 			});
 
-		}
 
 	});
 

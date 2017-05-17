@@ -1,5 +1,19 @@
 {
 
+  "SOL_TUR_H1"       : "Oplossing",
+  "SOL_TUR_par_1"    : "Na het decoderen van de code krijg je de tekst: \"Above all be cool\" !",
+
+  "SOL_ADA_H1"       : "Mee programmeren met ADA",
+  "SOL_ADA_par_1"    : "Hieronder de oplossingen, had je deze figuren ook gevonden ?",
+
+
+  "SOL_DOUG_H1"      : "Demo Time !",
+  "SOL_DOUG_par_1"   : "Hieronder een filmpje van een zeer oude tekstverwerker !",
+
+  "SOL_HOP_H1"      : "Oplossing",
+  "SOL_HOP_par_1"   : "Er stond een foutje in de zolang doe loop. De code \"z=z+x\" moet namelijk \"z=z+y\" zijn.",
+
+
   "SL1_title"        : "CODERDOJO(B)XL",
   "SL1_sub"          : "COMPUTERWETENSCHAPPEN ZONDER GRENZEN",
   "SL1_sub_sub"      : "EEN KEICOOLE DAG VOL COMPUTER HELDINNEN EN HELDEN!",
