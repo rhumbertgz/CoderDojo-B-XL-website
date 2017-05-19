@@ -315,7 +315,6 @@ jQuery(function($) {'use strict';
 		 IncludeHTML(
 			 function() {
 				translate('nl');
-				document.getElementById ("faq").innerHTML = faq(1)+faq(2)+faq(3)+faq(4)+faq(5)+faq(6)+faq(7);
 				document.getElementById ("btn_nl").addEventListener ("click", function() { translate('nl' ); }, false);
 				document.getElementById ("btn_fr").addEventListener ("click", function() { translate('fr' ); }, false);
 				document.getElementById ("btn_en").addEventListener ("click", function() { translate('en' ); }, false);
