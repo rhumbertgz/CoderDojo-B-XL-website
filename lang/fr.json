@@ -1,7 +1,11 @@
 {
 
+  "SL1_title"        : "COMPUTER SCIENCE WITHOUT BORDERS",
   "SL1_sub"          : "A SENSIBILIZATION CAMPAIGN FOR INTRODUCING YOUNGSTERS TO THE WORLD OF COMPUTER SCIENCE",
-  "SL1_sub_sub"      : "DEVIENS UN HERO DE L'ORDINATEUR A CETTE SUPER JOURNEE TECHNOLOGIQUE!",
+
+  "SL2_title"        : "JOIN THE NEXT COMPUTER SCIENCE WORkSHOP",
+  "SL2_sub"          : "20/05/2017 AT MUNTPUNT",
+  "SL2_sub_sub"      : "DEVIENS UN HERO DE L'ORDINATEUR A CETTE SUPER JOURNEE TECHNOLOGIQUE!",
   "B_join"           : "Rejoins-nous!",
 
   "WHAT_title"       : "Quoi",
@@ -21,36 +25,6 @@
   "THX_p"            : "Computerwetenschappen zonder grenzen is organized by VUB and CooderDojo Belgium with the financial support of the Science Mundi project of Innoviris. The coordinators of the project, Elisa Gonzalez Boix and Christophe Scholliers would like to thanks to all volunteers who make this campaign happen. ",
   "THX_p2"           : "Special thanks goes to:",
 
-  "TRS_title"        : "Accessibilité",
-  "TRS_pub"          : "Par transport public",
-  "TRS_p1"           : "Le Muntpunt est localisé sur la place de la Monnaie, proche de la gare centrale de Bruxelles et de l'arrêt metro, tram et bus De Brouckère.",
-  "TRS_mivb"         : "STIB",
-  "TRS_mivb_op1"     : "Metro  1 et 5",
-  "TRS_mivb_op2"     : "Tram  3, 4 32 et 33",
-  "TRS_mivb_op3"     : "Bus 29, 38, 63, 66, 71 et 86",
-  "TRS_lijn"         : "De Lijn",
-  "TRS_lijn_op1"     : "Bus 126, 127 et 128",
-  "TRS_bike"         : "A vélo",
-  "TRS_bike_op1"     : "Sur la place de la Monnaie il y a plusieurs parkings à vélo. Les vélos pliables ne sont pas autorisés dans le building. Vous pouvez les déposer dans les casiers au -1.",
-  "TRS_car"          : "En voiture",
-  "TRS_car_op1"      : "La place de la Monnaie est pédestre, les parkings Ecuyer, Monnaie et De Brouckère offrent beaucoup de places de parking proches de l'évènement.",
-
-
-  "REG_title"        : "Inscriptions",
-  "REG_p"            : "L'évènement est gratuit pour tout le monde. Les héroïnes et héros qui souhaitent participer doivent s'inscrire à l'avance en tant que Red ou Blue Heroes. Les visiteurs sont les bienvenus pendant les shows démonstratifs à 16:30 & 17:30 et ne doivent pas s'inscrire'.",
-  "REG_topics"       : "Pour les sessions de programmation, tu dois sélectionner l'un des sujets suivants:",
-  "REG_topic_w"      : "Web",
-  "REG_topic_m"      : "Mobile",
-  "REG_topic_r"      : "Robotics",
-  "B_register"       : "S'inscrire maintenant!",
-
-  "HELP_title"       : "Comment nous aider?",
-  "HELP_p"           : "Il existe deux façons de contribuer à CoderDojo B(XL) : en tant que <b>cook</b>  ou en tant que <b>coach</b>.",
-  "HELP_p_1"         : "Pour devenir <b>cook</b>, aucun savoir technique n’est nécessaire, car vous nous offrirez un soutien <b>administratif</b> et <b>logistique</b>. Vos tâches possibles seront : vous occuper des inscriptions, répondre aux questions des parents, accueillir les participants au début d’un Dojo, installer les tables et les chaises, aider à préparer les snacks et les boissons.",
-  "HELP_p_2"         : "En outre, CoderDojo B(XL) recherche des <b>coaches</b> qui <b>accompagneront les jeunes</b> lors des Dojos. Nous ne cherchons pas de personnes diplômées, mais des passionnés d’informatique, qui possèdent quelques compétences pédagogiques et qui ont une grande envie d’inspirer les jeunes et de leur apprendre la programmation.",
-  "HELP_contact"     : "Contactez-nous via <a href='mailto:1030@coderdojobelgium.be'>1030@coderdojobelgium.be</a> ou <a href='mailto:egonzale@vub.ac.be'>egonzale@vub.ac.be</a>",
-
-
   "INFO_title"       : "Plus d'informations",
   "INFO_INTRO"       : "Computer Science Without Borders project is organized by CoderDojo Belgium vzw and VUB with the financial support of the Science Mundi program of Innoviris.",
   "INFO_COORD"       : "Coordinators of the project",
@@ -59,24 +33,8 @@
   "INFO_cdj_p2"      : "Pour plus d'informations sur CoderDojo Belgique asbl et comment y participer:",
   "INFO_cdj_l"       : "www.coderdojobelgium.be",
 
-  "INFO_soft_p"      : "Le Laboratoire de recherche SOFT de la Vrije Universiteit Brussel organise le projet sciences computationnelles sans frontières. Le projet est une campagne de sensibilisation pour les jeunes, afin de les initier aux plaisirs des sciences computationnelles. Elle permet aussi de leur montrer qu'elles ne sont pas seulement dédiées aux nerds avec des ordinateurs. Les sciences computationnelles instruisent surtout une structure et une logique d'esprit importantes pour résoudre des problèmes et comprendre le monde.",
-  "INFO_soft_p2"     : "Pour plus d'informations sur les activités organisées dans le cadre du projet sciences computationnelles sans frontières:",
-  "INFO_soft_l"      : "http://soft.vub.ac.be/sciencemundi",
-
-  "FAQ_q1"           : "Dois-je ammener quelque chose ?",
-  "FAQ_a1"           : "Vous ne devez rien prendre avec vous. Tout le matériel est prévu et apporté par nos soins. Entre les activités vous recevrez un snack et une boisson, à la fin de la journée vous recevrez un gadget technologique et un t-shirt!",
-  "FAQ_q2"           : "L'évènement est-il gratuit?",
-  "FAQ_a2"           : "Absolument, participer et visiter CoderDojo (B)XL est complètement gratuit. Tout les évènement CoderDojo le sont.",
-  "FAQ_q3"           : "A partir de quel âge puis-je participer ? Quel est l'âge maximal ?",
-  "FAQ_a3"           : "En temps normal les CoderDojo sont ouverts pour les 6 à 18 ans. Mais pour cet évènement spécial nous avons fait une exception. Les participants seront divisés en deux groupes d'âges. Si tu as entre 8 et 13 ans, tu peux participer en tant que Red Hero. As-tu plus de 14 ans mais moins de 18 ans? Alors tu peux t'inscrire en tant que Blue Hero. ",
-  "FAQ_q4"           : "Est-il nécessaire d'avoir déjà participé à un CoderDojo?",
-  "FAQ_a4"           : "Tu peux être un fervent participant, mais ce n'est pas un prérequis :) Tout comme à un Dojo normal, tout le monde peut s'y joindre, même si tu n'as encore jamais programmé.",
-  "FAQ_q5"           : "Que dois-je faire si je me suis inscrit mais que je ne peux pas y participer?",
-  "FAQ_a5"           : "Les places sont limitées. Donc si tu t'inscris mais tu ne viens pas tu prends la place de quelqu'un qui aurait voulu venir et qui n'a pas eu de place. Si tu dois te désister laisse nous le savoir à temps en envoyant un mail à info@coderdojobelgium.be ou, encore mieux, en annulant ton ticket directement par EventBrite.",
-  "FAQ_q6"           : "Suis-je assuré en tant que participant à CoderDojo (B)XL?",
-  "FAQ_a6"           : "Oui, mais seulement si tu nous donnes les informations correctes pendant l'inscription.",
-  "FAQ_q7"           : "J'ai encore des questions!",
-  "FAQ_a7"           : "N'hésite pas à nous les poser par info@coderdojobelgium.be",
+  "INFO_soft_p"      : "The Software Languages Lab is a research lab within the Department of Computer Science of the Vrije Universiteit Brussel (VUB). Besides research, the lab is also active in activities to bring computer science closer to youngsters by means workshops like “program your own wii”, “program your own drone”. It has also hosted the “Vlaamse programmer wedstrijd” in 2013.",
+  "INFO_soft_p2"     : "More information over SOFT lab and its activities on:",
 
   "NAV_Home"         : "Accueil",
   "NAV_What"         : "Quoi",
@@ -84,9 +42,11 @@
   "NAV_Thanks"       : "Merci",
 
   "HWPACKET_title"   : "Computer Science Without Border Hardware Packet",
-  "HWPACKET_p1"      : "Intro...",
-  "HWPACKET_p2"      : "The first 10 packets can be lent via:",
+  "HWPACKET_p1"      : "The goal of the hardware packet is to introduce programming to youngsters with the help of micro:bit. A micro:bit is a small embedded computer developed by BCC for use in computer education. Our packet includes two booklets to get youngsters familiar with the micro:bit by means of cool games. One booklet uses Scratch and has been specially designed for children 8 - 13;  the other one uses Python and has been designed for youngsters 14 - 18.",
+  "HWPACKET_p2"      : "The first packets can be lent via the library:",
   "HWPACKET_p3"      : "Schools interested on lending them and holding their own programming session with microbits can contact us at: ",
+  "HWPACKET_p4"      :  "If you do something fun with the packet, do not hesitate to send us photos and movies of your project to ",
+  "HWPACKET_p5"      :  "We will place them on this website.",
 
   "POSTERS_title"    : "Computer Science Heros and Heroines poster exhibition",
 

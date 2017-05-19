@@ -1,16 +1,11 @@
 {
+  "SL1_title"        : "COMPUTER SCIENCE WITHOUT BORDERS",
   "SL1_sub"          : "A SENSIBILIZATION CAMPAIGN FOR INTRODUCING YOUNGSTERS TO THE WORLD OF COMPUTER SCIENCE",
-  "SL1_sub_sub"      : "BECOME A COMPUTER HERO AT THIS SUPERCOOL TECH DAY!",
+
+  "SL2_title"        : "JOIN THE NEXT COMPUTER SCIENCE WORkSHOP",
+  "SL2_sub"          : "20/05/2017 AT MUNTPUNT",
+  "SL2_sub_sub"      : "BECOME A COMPUTER HERO AT THIS SUPERCOOL TECH DAY!",
   "B_join"           : "Join us!",
-
-
-  "SL2_sub"          : "MUNTPUNT",
-  "SL2_sub_sub"      : "MUNT 6, 1000 BRUSSELS <br> DEMO SHOWS AT 16:00 & 17:30",
-
-  "CTA_title_1"      : "For whom?",
-  "CTA_par_1"        : "Are you younger than 18 years? <br> Do you like experimenting with technology? Then you will love CoderDojo (B)XL! <br> You can participate as a Red Digital Hero (8-13 years) or Blue Digital Hero (14-18 years).",
-  "CTA_title_2"      : "Why join us?",
-  "CTA_par_2"        : "During this big CoderDojo you will learn all about the heroines and heroes of Computer Science! Even better, you will become a computer heroine or hero yourself by showing off your (new) programming skills.",
 
   "WHAT_title"       : "What",
   "What_intro"       : "The Computer Science Without Borders project is a sensibilization campaign for youngsters to show that computer science is it not only for nerds sited the whole day behind a computer. Computer Science is overall about computational thinking, a very important skill to solve problems and understand the world. There are three different kind of activities organized within this campaign:",
@@ -35,23 +30,9 @@
   "INFO_cdj_p2"      : "Meer information over CoderDojo Belgium vzw and how to attend on:",
   "INFO_cdj_l"       : "www.coderdojobelgium.be",
 
-  "INFO_soft_p"      : "The Software Languages Lab is a research lab within the Department of Computer Science of the Vrije Universiteit Brussel (VUB).  Besides research, the lab is also active in activities to bring computer science closer to youngsters by means workshops like “ program your own wii”, “program your own drone”. It has also hosted the “Vlaamse programmer wedstrijd” in 2013.",
+  "INFO_soft_p"      : "The Software Languages Lab is a research lab within the Department of Computer Science of the Vrije Universiteit Brussel (VUB). Besides research, the lab is also active in activities to bring computer science closer to youngsters by means workshops like “program your own wii”, “program your own drone”. It has also hosted the “Vlaamse programmer wedstrijd” in 2013.",
   "INFO_soft_p2"     : "More information over SOFT lab and its activities on:",
 
-  "FAQ_q1"           : "Should I bring something?",
-  "FAQ_a1"           : "You do not have to bring anything. All the material will be provided for by us. In between sessions you will receive a snack and drink and at the end of the day we will reward you for your hard work with a cool tech goodie and a t-shirt!",
-  "FAQ_q2"           : "Is the event free?",
-  "FAQ_a2"           : "Absolutely, both participating and visiting CoderDojo (B)XL is completely free! All of CoderDojo’s events are, by the way.",
-  "FAQ_q3"           : "At what age am I old enough to participate? What is the maximum age?",
-  "FAQ_a3"           : "A normal CoderDojo is open to anyone between 6 and 18 years old. However, for this special event we have made an exception for once. Participants will be divided into 2 age groups. If you are between 8 and 13 years old, you can participate as a Red Hero. Are you already 14 but not 18 yet? Then you can register as a Blue Hero.",
-  "FAQ_q4"           : "Is it necessary to have taken part in a CoderDojo before?",
-  "FAQ_a4"           : "You can be a loyal CoderDojo attendant, but you do not have to be :) Just like a normal Dojo everyone can join, even if you have never programmed before.",
-  "FAQ_q5"           : "What should I do if I have registered but I cannot make it after all?",
-  "FAQ_a5"           : "Places are limited, so if you register and do not show up, that is a real pity for someone else who would have wanted to come but didn’t have a spot. If you have to cancel please let us know in time by emailing info@coderdojobelgium.be or, better yet, by canceling your ordered ticket directly in EventBrite.",
-  "FAQ_q6"           : "Am I insured when I participate in CoderDojo (B)XL?",
-  "FAQ_a6"           : "Yes, you are, provided that you give us all the (correct) information we ask for during your registration.",
-  "FAQ_q7"           : "I still have questions!",
-  "FAQ_a7"           : "Feel free to ask them via info@coderdojobelgium.be",
 
   "NAV_Home"         : "Home",
   "NAV_Where"        : "Where",
@@ -60,9 +41,11 @@
   "NAV_Thanks"       : "Thanks",
 
   "HWPACKET_title"   : "Computer Science Without Border Hardware Packet",
-  "HWPACKET_p1"      : "Intro...",
-  "HWPACKET_p2"      : "The first 10 packets can be lent via:",
+  "HWPACKET_p1"      : "The goal of the hardware packet is to introduce programming to youngsters with the help of micro:bit. A micro:bit is a small embedded computer developed by BCC for use in computer education. Our packet includes two booklets to get youngsters familiar with the micro:bit by means of cool games. One booklet uses Scratch and has been specially designed for children 8 - 13;  the other one uses Python and has been designed for youngsters 14 - 18.",
+  "HWPACKET_p2"      : "The first packets can be lent via the library:",
   "HWPACKET_p3"      : "Schools interested on lending them and holding their own programming session with microbits can contact us at: ",
+  "HWPACKET_p4"      : "If you do something fun with the packet, do not hesitate to send us photos and movies of your project to ",
+  "HWPACKET_p5"      : "We will place them on this website.",
 
   "POSTERS_title"    : "Computer Science Heros and Heroines poster exhibition",
 
