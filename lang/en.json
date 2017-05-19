@@ -1,11 +1,9 @@
 {
-
-  "SL1_title"        : "CODERDOJO(B)XL",
-  "SL1_sub"          : "COMPUTERSCIENCE WITHOUT BORDERS",
+  "SL1_sub"          : "A SENSIBILIZATION CAMPAIGN FOR INTRODUCING YOUNGSTERS TO THE WORLD OF COMPUTER SCIENCE",
   "SL1_sub_sub"      : "BECOME A COMPUTER HERO AT THIS SUPERCOOL TECH DAY!",
   "B_join"           : "Join us!",
 
-  "DATE"             : "SATURDAY MAY 20 2017",
+
   "SL2_sub"          : "MUNTPUNT",
   "SL2_sub_sub"      : "MUNT 6, 1000 BRUSSELS <br> DEMO SHOWS AT 16:00 & 17:30",
 
@@ -14,71 +12,31 @@
   "CTA_title_2"      : "Why join us?",
   "CTA_par_2"        : "During this big CoderDojo you will learn all about the heroines and heroes of Computer Science! Even better, you will become a computer heroine or hero yourself by showing off your (new) programming skills.",
 
-  "WHERE_title"      : "When & Where? " ,
-  "WHERE_when"       : "from 13:00 to 18:00",
-  "WHERE_red"        : "Red heroes are expected at <b>12:30</b> at the latest",
-  "WHERE_blue"       : "Blue heroes are expected at <b>14:30</b> at the latest",
-  "WHERE_show"       : "Visitors are welcome all day, especially during the demo shows of 16:00 and 17:30",
-  "WHERE_munt"       : "Muntpunt",
-  "WHERE_addr"       : "Munt 6 – 1000 Brussel - België",
-
   "WHAT_title"       : "What",
-  "What_intro"       :  "During CoderDojo (B)XL you will take part in different activities.",
-  "What_rotate"      :  "A rotating system will allow all of you to get a taste from every workshop.",
+  "What_intro"       : "The Computer Science Without Borders project is a sensibilization campaign for youngsters to show that computer science is it not only for nerds sited the whole day behind a computer. Computer Science is overall about computational thinking, a very important skill to solve problems and understand the world. There are three different kind of activities organized within this campaign:",
 
-  "WHAT_unpl"        :  "Unplugged programming",
-  "What_unpl_p"      :  "This first series of workshops do not require a computer at all! You will discover programming concepts and principles through a number of cool active games.",
-  "What_code"        :  "Coding sessions",
-  "What_code_p"      :  "This second series allows you to apply what you have learned at the unplugged sessions in a fun way. During these coding workshops you will get to program computers, smartphones and even robots.",
-  "What_show"        :  "Demo show",
-  "WHAT_show_p"      :  "Show off your superpowers and present - if you want to - what you have worked on during CoderDojo (B)XL to your fellow heroes and heroines!",
-  "WHAT_end"         :  "It is not necessary for you to have experience in programming: anybody can join!",
-
+  "WHAT_poster"      :  "Poster Exehibition",
+  "WHAT_poster_p"    :  "Computer Science Heros and Heroines poster exhibition.",
+  "WHAT_hwp"         :  "Hardware Packet",
+  "WHAT_hwp_p"       :  "Computer Science Without Border Hardware Packet.",
+  "WHAT_workshops"   :  "Workshops",
+  "WHAT_workshops_p" :  "List of programming workshop organized within the campaign.",
+  "WHAT_more_info"   :  "More info",
 
   "THX_title"        : "Thank you",
-  "THX_p"            : "CoderDojo (B)XL is organised by CoderDojo Belgium vzw and VUB in the context of the Computer Science without borders project. We are glad we can count on some strong partners.",
-  "THX_muntpunt"     : "Muntpunt gives all the logistical support.",
-  "THX_fin"          : "Thanks to the financial support of the following sponsors we can provide a fun experience for participants and visitors!",
-
-
-  "TRS_title"        : "Accessibility",
-  "TRS_pub"          : "By public transportation",
-  "TRS_p1"           : "Muntpunt is located at Muntplein, very close to Brussels Central Station and subway, tram and bus stop De Brouckère.",
-  "TRS_mivb"         : "MIVB",
-  "TRS_mivb_op1"     : "Subway 1 en 5",
-  "TRS_mivb_op2"     : "Tram 3, 4 32 and 33",
-  "TRS_mivb_op3"     : "Bus 29, 38, 63, 66, 71 and 86",
-  "TRS_lijn"         : "De Lijn",
-  "TRS_lijn_op1"     : "Bus 126, 127 and 128",
-  "TRS_bike"         : "By bicycle",
-  "TRS_bike_op1"     : "At Muntplein there are several bicycle parking rails available. Folding bikes are not allowed inside the building. You can store them in the lockers at -1.",
-  "TRS_car"          : "By car",
-  "TRS_car_op1"      : "The Muntplein is entirely pedestrianized, but parking lots Schildknaap, Munt and De Brouckère offer ample parking space close by.",
-
-
-  "REG_title"        : "Register",
-  "REG_p"            : "The event is free for everyone. Heroines and heroes that want to participate should register beforehand as Red or Blue Heroes. Visitors are welcome during the demo shows at 16:30 & 17:30 and do not have to register to attend.",
-  "REG_topics"       : "For the coding workshops you will need to choose one of the following topics:",
-  "REG_topic_w"      : "Web",
-  "REG_topic_m"      : "Mobile",
-  "REG_topic_r"      : "Robotics",
-  "B_register"       : "Register now!",
-
-  "HELP_title"       : "How can you help us?",
-  "HELP_p"           : "You can help out in two ways during CoderDojo B(XL): as a <b>cook</b> or as a <b>coach</b>.",
-  "HELP_p_1"         : "Volunteering as a <b>cook</b> does not require any technical knowledge at all, since you provide support in <b>administration</b> and <b>logistics</b>. This means taking care of registrations, answering questions from parents, receiving the participants at the start of a Dojo, setting up tables and chairs, providing snacks and drinks.",
-  "HELP_p_2"         : "Volunteering as a <b>coach</b> means to to <b>assist the children</b> during the Dojo. We do not ask for a specific degree, but coaching does require a passion for IT, some teaching skills and the drive to inspire young people and to teach them programming.",
-  "HELP_contact"     : "Contact us at <a href='mailto:1030@coderdojobelgium.be'>1030@coderdojobelgium.be</a> or <a href='mailto:egonzale@vub.ac.be'>egonzale@vub.ac.be</a>",
-
+  "THX_p"            : "Computerwetenschappen zonder grenzen is organized by VUB and CooderDojo Belgium with the financial support of the Science Mundi project of Innoviris. The coordinators of the project, Elisa Gonzalez Boix and Christophe Scholliers would like to thanks to all volunteers who make this campaign happen. ",
+  "THX_p2"           : "Special thanks goes to:",
 
   "INFO_title"       : "More information",
+  "INFO_INTRO"       : "Computer Science Without Borders project is organized by CoderDojo Belgium vzw and VUB with the financial support of the Science Mundi program of Innoviris.",
+  "INFO_COORD"       : "Coordinators of the project",
+
   "INFO_cdj_p"       : "CoderDojo is a global, volunteer-led movement of free computer programming clubs for young people. Currently there are 70 monthly CoderDojo clubs in Belgium.",
   "INFO_cdj_p2"      : "Meer information over CoderDojo Belgium vzw and how to attend on:",
   "INFO_cdj_l"       : "www.coderdojobelgium.be",
 
-  "INFO_soft_p"      : "The SOFT research lab at the Vrije Universiteit Brussel organizes the Computer Science Without Borders project. The project is a sensibilization campaign for youngsters to show that computer science is it not only for nerds sited the whole day behind a computer. Computer Science is overall about computational thinking, a very important skill to solve problems and understand the world. ",
-  "INFO_soft_p2"     : "More information on the activities organized in the CS Without Borders project on:",
-  "INFO_soft_l"      : "http://soft.vub.ac.be/sciencemundi",
+  "INFO_soft_p"      : "The Software Languages Lab is a research lab within the Department of Computer Science of the Vrije Universiteit Brussel (VUB).  Besides research, the lab is also active in activities to bring computer science closer to youngsters by means workshops like “ program your own wii”, “program your own drone”. It has also hosted the “Vlaamse programmer wedstrijd” in 2013.",
+  "INFO_soft_p2"     : "More information over SOFT lab and its activities on:",
 
   "FAQ_q1"           : "Should I bring something?",
   "FAQ_a1"           : "You do not have to bring anything. All the material will be provided for by us. In between sessions you will receive a snack and drink and at the end of the day we will reward you for your hard work with a cool tech goodie and a t-shirt!",
@@ -98,8 +56,23 @@
   "NAV_Home"         : "Home",
   "NAV_Where"        : "Where",
   "NAV_What"         : "What",
-  "NAV_Inspiration"  : "Inspiration",
-  "NAV_Register"     : "Register",
-  "NAV_Help"         : "Help out",
-  "NAV_More"         : "More info"
+  "NAV_More"         : "More info",
+  "NAV_Thanks"       : "Thanks",
+
+  "HWPACKET_title"   : "Computer Science Without Border Hardware Packet",
+  "HWPACKET_p1"      : "Intro...",
+  "HWPACKET_p2"      : "The first 10 packets can be lent via:",
+  "HWPACKET_p3"      : "Schools interested on lending them and holding their own programming session with microbits can contact us at: ",
+
+  "POSTERS_title"    : "Computer Science Heros and Heroines poster exhibition",
+
+  "WORKSHOPS_title"  : "Workshops",
+  "WORKSHOPS_p1"     : "List of programming workshop organized within the campaign:",
+  "WORKSHOPS_w1"     : "22/01/2017 - Programming session at Sint Lukasbasisschool, Schaarbeek",
+  "WORKSHOPS_w2"     : "18/02/2017 - First pilot session with microbits at CoderDojo Schaarbeek",
+  "WORKSHOPS_w3"     : "23/03/2017 - Presentation of hardware packet CoderDojo BXL to schools in Brussels, Fablab Brussels",
+  "WORKSHOPS_w4"     : "20/1/2017 - ",
+  "WORKSHOPS_w5"     : " workshop at Muntpunt, Brussels"
+
+
 }

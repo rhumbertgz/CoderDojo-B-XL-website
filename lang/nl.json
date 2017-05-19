@@ -1,21 +1,6 @@
 {
 
-  "SOL_TUR_H1"       : "Oplossing",
-  "SOL_TUR_par_1"    : "Na het decoderen van de code krijg je de tekst: \"Above all be cool\" !",
-
-  "SOL_ADA_H1"       : "Mee programmeren met ADA",
-  "SOL_ADA_par_1"    : "Hieronder de oplossingen, had je deze figuren ook gevonden ?",
-
-
-  "SOL_DOUG_H1"      : "Demo Time !",
-  "SOL_DOUG_par_1"   : "Hieronder een filmpje van een zeer oude tekstverwerker !",
-
-  "SOL_HOP_H1"      : "Oplossing",
-  "SOL_HOP_par_1"   : "Er stond een foutje in de zolang doe loop. De code \"z=z+x\" moet namelijk \"z=z+y\" zijn.",
-
-
-  "SL1_title"        : "CODERDOJO(B)XL",
-  "SL1_sub"          : "COMPUTERWETENSCHAPPEN ZONDER GRENZEN",
+  "SL1_sub"          : "A SENSIBILIZATION CAMPAIGN FOR INTRODUCING YOUNGSTERS TO THE WORLD OF COMPUTER SCIENCE",
   "SL1_sub_sub"      : "EEN KEICOOLE DAG VOL COMPUTER HELDINNEN EN HELDEN!",
   "B_join"           : "Doe mee!",
 
@@ -23,36 +8,20 @@
   "SL2_sub"          : "MUNTPUNT",
   "SL2_sub_sub"      : "MUNT 6, 1000 BRUSSEL <br> TOONMOMENTEN OM 16:00 EN 17:30",
 
-  "CTA_title_1"      : "Voor wie?",
-  "CTA_par_1"        : "Ben je jonger dan 18 jaar? Hou je van experimenteren met technologie? Dan is CoderDojo (B)XL helemaal voor jou! Je kan meedoen als Red Hero (8-13 jaar) of Blue Hero (14-18 jaar).",
-  "CTA_title_2"      : "Waarom meedoen?",
-  "CTA_par_2"        : "Tijdens deze grote CoderDojo leer je alles over de heldinnen en helden van Computerwetenschappen! Meer nog, je wordt zelf computer heldin of held van de dag door meteen aan de slag te gaan met programmeren!",
+  "WHAT_title"       : "What",
+  "What_intro"       : "The Computer Science Without Borders project is a sensibilization campaign for youngsters to show that computer science is it not only for nerds sited the whole day behind a computer. Computer Science is overall about computational thinking, a very important skill to solve problems and understand the world. There are three different kind of activities organized within this campaign:",
 
-  "WHERE_title"      : "Waar en wanneer?" ,
-  "WHERE_when"       : "van 13:00 tot 18:00",
-  "WHERE_red"        : "Red heroes worden om <b>12:30</b> verwacht",
-  "WHERE_blue"       : "Blue heroes worden om <b>14:30</b> verwacht",
-  "WHERE_show"       : "Toonmomenten voor bezoekers om 16:00 en 17:30",
-  "WHERE_munt"       : "Muntpunt",
-  "WHERE_addr"       : "Munt 6 – 1000 Brussel - België",
-
-  "WHAT_title"       : "Wat",
-  "What_intro"       :  "Tijdens CoderDojo (B)XL zal je deelnemen aan verschillende activiteiten.",
-  "What_rotate"      :  "Volgens een rotatiesysteem zorgen we ervoor dat jullie van elke workshop kunnen proeven.",
-
-  "WHAT_unpl"        :  "Unplugged programmeren",
-  "What_unpl_p"      :  "Aan de eerste reeks workshops komen er geen computers aan te pas. Je ontdekt concepten en principes van programmeren door een aantal actieve toffe spelletjes.",
-
-  "What_code"        :  "Coding sessies",
-  "What_code_p"      :  "In deze reeks kan je toepassen wat je tijdens de unplugged sessies hebt geleerd! In de coding workshops ga je aan de slag met onder andere computers, smartphones en robots.",
-  "What_show"        :  "Toonmoment",
-  "WHAT_show_p"      :  "Toon je superpowers en presenteer – als je dat wil – aan je collega helden en heldinnen wat jij tijdens CoderDojo (B)XL hebt gemaakt!",
-  "WHAT_end"         :  "Het is niet nodig om al ooit geprogrammeerd te hebben: iedereen kan deelnemen!",
+  "WHAT_poster"      :  "Poster Exehibition",
+  "WHAT_poster_p"    :  "Computer Science Heros and Heroines poster exhibition.",
+  "WHAT_hwp"         :  "Hardware Packet",
+  "WHAT_hwp_p"       :  "Computer Science Without Border Hardware Packet.",
+  "WHAT_workshops"   :  "Workshops",
+  "WHAT_workshops_p" :  "list of programming workshop organized within the campaign.",
+  "WHAT_more_info"   :  "More info",
 
   "THX_title"        : "Dankjewel",
-  "THX_p"            : "CoderDojo (B)XL wordt georganiseerd door CoderDojo Belgium vzw en VUB in het kader van het Computerwetenschappen zonder grenzen project. Het doet ons enorm veel plezier te kunnen rekenen op een aantal sterke partners!",
-  "THX_muntpunt"     : "Muntpunt zorgt voor de logistieke steun.",
-  "THX_fin"          : "Dankzij de financiële steun van deze sponsors wordt het extra leuk voor deelnemers en bezoekers!",
+  "THX_p"            : "Computerwetenschappen zonder grenzen is organized by VUB and CooderDojo Belgium with the financial support of the Science Mundi project of Innoviris. The coordinators of the project, Elisa Gonzalez Boix and Christophe Scholliers would like to thanks to all volunteers who make this campaign happen. ",
+  "THX_p2"           : "Special thanks goes to:",
 
   "TRS_title"        : "Bereikbaarheid",
   "TRS_pub"          : "Met het openbaar vervoer",
@@ -84,9 +53,12 @@
   "HELP_contact"     : "Contacteer ons op <a href='mailto:1030@coderdojobelgium.be'>1030@coderdojobelgium.be</a> of <a href='mailto:egonzale@vub.ac.be'>egonzale@vub.ac.be</a>",
 
   "INFO_title"       : "Meer info",
-  "INFO_cdj_p"       : "CoderDojo is een wereldwijde beweging van vrijwilligers die zich inzetten om jongeren warm te maken voor technologie en programmeren. In België organiseren we momenteel meer dan 70 maandelijkse CoderDojo clubs.",
-  "INFO_cdj_p2"      : "Meer informatie over CoderDojo Belgium vzw en hoe je kan deelnemen, vind je op:",
-  "INFO_cdj_l"       : "www.coderdojobelgium.be",
+  "INFO_INTRO"       : "Computer Science Without Borders project is organized by CoderDojo Belgium vzw and VUB with the financial support of the Science Mundi program of Innoviris.",
+  "INFO_COORD"       : "Coordinators of the project",
+
+ "INFO_cdj_p"       : "CoderDojo is een wereldwijde beweging van vrijwilligers die zich inzetten om jongeren warm te maken voor technologie en programmeren. In België organiseren we momenteel meer dan 70 maandelijkse CoderDojo clubs.",
+ "INFO_cdj_p2"      : "Meer informatie over CoderDojo Belgium vzw en hoe je kan deelnemen, vind je op:",
+ "INFO_cdj_l"       : "www.coderdojobelgium.be",
 
   "INFO_soft_p"      : "Het SOFT onderzoekslabo van de Vrije Universiteit Brussel organiseert het Computerwetenschappen Zonder Grenzen project. Dit project beoogt het sensibiliseren van jongeren om hen duidelijk te maken dat computerwetenschappen niet alleen voor nerds is die de hele dag achter hun computer zitten. Computerwetenschappen gaat in de eerste plaats over algoritmisch denken om zo belangrijke problemen op te lossen.",
   "INFO_soft_p2"     : "Meer informatie over de acties die we ondernemen in het CW Zonder Grenzen project, vind je op:",
@@ -108,10 +80,23 @@
   "FAQ_a7"           : "Stel ze gerust via info@coderdojobelgium.be",
 
   "NAV_Home"         : "Home",
-  "NAV_Where"        : "Waar",
   "NAV_What"         : "Wat",
-  "NAV_Inspiration"  : "Inspiratie",
-  "NAV_Register"     : "Inschrijven",
-  "NAV_Help"         : "Meehelpen",
-  "NAV_More"         : "Meer info"
+  "NAV_More"         : "Meer info",
+  "NAV_Thanks"       : "Dankjewel",
+
+  "HWPACKET_title"   : "Computer Science Without Border Hardware Packet",
+  "HWPACKET_p1"      : "Intro...",
+  "HWPACKET_p2"      : "The first 10 packets can be lent via:",
+  "HWPACKET_p3"      : "Schools interested on lending them and holding their own programming session with microbits can contact us at: ",
+
+  "POSTERS_title"    : "Computer Science Heros and Heroines poster exhibition",
+
+  "WORKSHOPS_title"  : "Workshops",
+  "WORKSHOPS_p1"     : "List of programming workshop organized within the campaign:",
+  "WORKSHOPS_w1"     : "22/01/2017 - Programming session at Sint Lukasbasisschool, Schaarbeek",
+  "WORKSHOPS_w2"     : "18/02/2017 - First pilot session with microbits at CoderDojo Schaarbeek",
+  "WORKSHOPS_w3"     : "23/03/2017 - Presentation of hardware packet CoderDojo BXL to schools in Brussels, Fablab Brussels",
+  "WORKSHOPS_w4"     : "20/1/2017 - ",
+  "WORKSHOPS_w5"     : " workshop at Muntpunt, Brussels"
+
 }
