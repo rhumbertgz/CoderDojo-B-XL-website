@@ -9,10 +9,10 @@
   "B_join"           : "Rejoins-nous!",
 
   "WHAT_title"       : "Quoi",
-  "What_intro"       : "The Computer Science Without Borders project is a sensibilization campaign for youngsters to show that computer science is it not only for nerds sited the whole day behind a computer. Computer Science is overall about computational thinking, a very important skill to solve problems and understand the world. There are three different kind of activities organized within this campaign:",
+  "What_intro"       : "The Computer Science Without Borders project is a sensibilization campaign for youngsters to show that computer science is not only for nerds seated behind a computer the whole day. Computer Science is overall about computational thinking, a very important skill to solve problems and understand the world. There are three different kind of activities organized within this campaign:",
 
 
-  "WHAT_poster"      :  "Poster Exehibition",
+  "WHAT_poster"      :  "Poster Exhibition",
   "WHAT_poster_p"    :  "Computer Science Heros and Heroines poster exhibition.",
   "WHAT_hwp"         :  "Hardware Packet",
   "WHAT_hwp_p"       :  "Computer Science Without Border Hardware Packet.",
@@ -33,7 +33,7 @@
   "INFO_cdj_p2"      : "Pour plus d'informations sur CoderDojo Belgique asbl et comment y participer:",
   "INFO_cdj_l"       : "www.coderdojobelgium.be",
 
-  "INFO_soft_p"      : "The Software Languages Lab is a research lab within the Department of Computer Science of the Vrije Universiteit Brussel (VUB). Besides research, the lab is also active in activities to bring computer science closer to youngsters by means workshops like “program your own wii”, “program your own drone”. It has also hosted the “Vlaamse programmer wedstrijd” in 2013.",
+  "INFO_soft_p"      : "The Software Languages Lab is a research lab within the Department of Computer Science of the Vrije Universiteit Brussel (VUB). Besides research, the lab is also active in activities to bring computer science closer to youngsters by means of workshops like “program your own wii”, “program your own drone”. It has also hosted the “Vlaamse Programmeerwedstrijd” in 2013.",
   "INFO_soft_p2"     : "More information over SOFT lab and its activities on:",
 
   "NAV_Home"         : "Accueil",
@@ -43,8 +43,8 @@
 
   "HWPACKET_title"   : "Computer Science Without Border Hardware Packet",
   "HWPACKET_p1"      : "The goal of the hardware packet is to introduce programming to youngsters with the help of micro:bit. A micro:bit is a small embedded computer developed by BCC for use in computer education. Our packet includes two booklets to get youngsters familiar with the micro:bit by means of cool games. One booklet uses Scratch and has been specially designed for children 8 - 13;  the other one uses Python and has been designed for youngsters 14 - 18.",
-  "HWPACKET_p2"      : "The first packets can be lent via the library:",
-  "HWPACKET_p3"      : "Schools interested on lending them and holding their own programming session with microbits can contact us at: ",
+  "HWPACKET_p2"      : "The first packets can be borrowed via the library:",
+  "HWPACKET_p3"      : "Schools interested in borrowing them and holding their own programming session with microbits can contact us at: ",
   "HWPACKET_p4"      :  "If you do something fun with the packet, do not hesitate to send us photos and movies of your project to ",
   "HWPACKET_p5"      :  "We will place them on this website.",
 
